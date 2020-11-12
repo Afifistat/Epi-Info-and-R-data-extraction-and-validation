@@ -1,0 +1,240 @@
+"UniqueKey","RECSTATUS","GlobalRecordId","FirstSaveLogonName","FirstSaveTime","LastSaveLogonName","LastSaveTime","FKEY","study_id_expo","trial_order","Tot_No_of_farm_sselectedforinclusion","TotNoofcowsselectedforinclusion","Challengedose","BacterialConcCFUml","Typeofexposure","Trialdesign","Studysobjective","TotNoofquartersselectedforinclusion","CowsInclusionExclusioncriteria","Interventionallocationunit","Parity","Secondery","parity_min","parity_max","elaborate","Breed","ChallengeBacterialSp","Wasanapriorisamplesizecalculationreported","Ifthedatahavesomekindofhierarchicalstructurehavetheauthorsaccoun","Wastheanalysisdoneasintentiontotreat","inappropriate","CMcaseswereexcluded"
+9,1,04189abf-65cf-47fb-a4cb-e9084a68fe24,ADDS\mafifi,1/6/2019 8:29:10 PM,ADDS\mafifi,10/31/2019 1:50:03 PM,5d64aee7-b952-4a01-b434-5f49f243b725,709,1,6,890,,,Natural IMI,RCT,Assessing the effect of the Tx,3560,"* low-SCC uninfected = cows with the last 3 monthly individual SCC <200,000 cells/mL and no clinical mastitis within that period
+
+* all other animals (with complete records) were allocated to the infected group (high-SCC infected group)
+
+* expected dry period length of at least 54 d
+
+",Quarter,2.84,True,1,13,,Holsteins+Other breeds,,No,Yes,No,,
+10,1,6359db06-b692-4271-80ae-b824521056e4,ADDS\mafifi,3/20/2019 3:31:26 PM,ADDS\mafifi,7/10/2019 1:41:43 AM,d4c00790-da63-42e4-8f8d-c6403e740215,23,1,215,772,,,Natural IMI,RCT,Others,,Selection criteria for dry cow therapy were isolation of Staphylococcus aureus strains (SA) in milk samples before drying off combined with SCC>100.000 and/or a previous mastitis history.,Herd,,False,,,,Not-reported,,No,Yes,No,No,No information
+11,1,cf64bc24-726c-4dba-ae35-b8f914bcc7d0,ADDS\mafifi,3/20/2019 3:45:21 PM,ADDS\mafifi,3/26/2019 2:17:31 PM,97b2fb8e-51ff-4ca1-95b3-b9aba60d8ece,25,1,1,34,,,Natural-Experimental mix,RCT,Assessing the effect of the Tx,,"Average daily lactation =  7 kg 
+DP = 2 mon
+
+",Cow,,False,2,9,,Holsteins,Staph. aureus,No,No,Yes,No,
+12,1,abe97a58-cdd3-43ce-a893-6eb4299e5aee,ADDS\mafifi,3/21/2019 10:49:38 AM,ADDS\mafifi,3/27/2019 1:36:20 AM,0b8e67bd-6f59-4329-8a77-16e3f4cc9731,59,1,3,100,,,Natural IMI,RCT,Assessing the effect of the Tx,,"Average  SCC at DO = 1000000
+DP = 2 mons
+",Cow,,True,,,they didn't follow any of the standard methodologies ,Jerseys+Other breeds,,No,No,No,Yes,
+13,1,8e0f0e0c-3e9b-4741-979e-737daf3f5996,ADDS\mafifi,3/21/2019 12:47:25 PM,ADDS\mafifi,3/21/2019 12:47:25 PM,f13dad19-3713-49a1-9b56-eb6b8ada2083,101,1,3,1880,,,Natural IMI,RCT,Assessing the effect of the Tx,7520,,Cow,,False,,,,Jerseys+Other breeds,,,,,,
+14,1,ed89a724-d40c-4a2f-90a6-b296bed51dcb,ADDS\mafifi,3/21/2019 12:57:01 PM,ADDS\mafifi,5/28/2019 12:24:59 PM,e29a9a31-69b2-4352-b9ba-4e0b686e6bf0,523,1,7,1080,,,Natural IMI,RCT,Assessing the effect of the Tx,," Cows with SA IMI
+
+
+",Cow,,False,,,,Jerseys+Other breeds,,No,No,No,No,
+15,1,c891db24-389a-4910-8603-33c48d169411,ADDS\mafifi,3/21/2019 2:33:14 PM,ADDS\mafifi,3/21/2019 5:29:30 PM,a6d80c42-7947-4435-b0f2-e5802996d862,110,1,14,1400,,,Natural IMI,NRSI,Assessing the effect of the Tx,,"Milking-time hygienic procedures aimed at minimizing cross-infections between cows were practiced in all the herds during at least four years before the start of the trial.
+
+more than 1400 cows were treated at drying off, data from 14 percent of these cows were not available due to culling during the dry period (6.5 percent)
+
+lactation 1-4+
+
+",Cow,,False,1,4,no standards,Jerseys+Other breeds,,No,No,No,Yes,
+16,1,26924f35-2da1-4918-b6d1-f560f03a70b7,ADDS\mafifi,3/21/2019 6:00:52 PM,ADDS\mafifi,3/28/2019 1:57:19 PM,c9b9f214-b140-4cb0-860c-36bd31648f8a,111,1,6,493,,,Natural IMI,RCT,Assessing the effect of the Tx,,"a) Cows that had had clinical mastitis during the current lactation;
+b) Adult cows that had ICSCC >150,000 cells/ml at any test during the current lactation and;
+c) First-calved heifers that had ICSCC>120,000 cells/ml at any test during the current lactation. The herds were typical of normal commercial herds in this region.
+",Cow,,True,,,No standards,Holst-Jerseys Mix,,No,No,No,Yes,
+17,1,377d73e0-deab-46cb-8f37-8d74e68a4478,ADDS\mafifi,3/23/2019 12:35:43 AM,ADDS\mafifi,3/23/2019 1:33:22 AM,14d39b68-2116-4680-8fde-1b9ab15f5862,115,1,1,180,,,Natural IMI,RCT,Assessing the effect of the Tx,,"
+All cows, which tested positive for S. aureus in at least one quarter sample were enrolled in the trial. 
+
+on the basis of parity (1st, 2nd, +3rd) and somatic cells count (SCC) (last milk recording sample; <300 000 or >300 000 cells/ml),
+
+
+",Cow,,False,,,,Holsteins,,No,Yes,No,No,
+18,1,b2b40093-64d0-42d4-bdaa-ae94c7e4ad1b,ADDS\mafifi,3/23/2019 8:50:12 PM,ADDS\mafifi,11/25/2019 2:10:09 PM,a511a477-5e18-4803-a9c1-68f5adc7aa2e,118,1,8,489,,,Natural IMI,RCT,Assessing the effect of the Tx,,"bulk milk SCC < 250,000 cells/mL
+
+",Cow,2.52,True,1,11,,Holsteins,,No,Yes,No,No,
+19,1,9686084d-d8d5-4e44-8b78-6daa50bde5a6,ADDS\mafifi,3/24/2019 12:22:26 AM,ADDS\mafifi,3/28/2019 1:58:27 PM,c07c255d-f9dc-4292-877f-4db60cee6f61,113,1,8,268,,,Natural IMI,RCT,Assessing the effect of the Tx,," farms with a recent history of subclinical mastitis
+ Lactating cows with an ICCC above 250,000 cells/mL at the most recent herd test were selected to have milk samples taken for culture.
+Dp =56 days
+Startification 
+
+
+
+
+
+",Cow,,True,,,no detials about the methodolgy were reported,Jerseys+Other breeds,,Yes,No,No,Yes,
+20,1,e3e86bb5-a5dc-46b1-bb50-69a001cded0c,ADDS\mafifi,3/24/2019 1:41:06 AM,ADDS\mafifi,3/24/2019 1:58:31 AM,ce4ae4d4-a50b-452e-bfc2-e5fd805cdcd4,120,1,4,,,,Natural IMI,NRSI,Assessing the effect of the Tx,,"Quarters classed as positive and selected for treatment at drying-off were either suspicious or positive on the R M T and yielded a known mastitis pathogen or gave a grade 2 or 7 reaction to the RMT not associated with the growth of recognized pathogens.
+",Cow,,False,,,"No standards, o information about randomized cows to detect IntentionTT",Jerseys+Other breeds,,No,No,No,No,
+21,1,84a135cd-e3c4-43d0-85ba-b994a8fc0c88,ADDS\mafifi,3/24/2019 2:13:46 AM,ADDS\mafifi,10/29/2019 8:28:01 PM,806e19d1-47c5-47b8-bd85-2945e274a979,125,1,1,278,,,Natural IMI,RCT,Assessing the effect of the Tx,1062,,Cow,,True,,,,Holsteins,,No,Yes,No,No,
+22,1,e5afb9b0-a8b4-4128-8c9e-24525e9c1b45,ADDS\mafifi,3/24/2019 8:43:47 PM,ADDS\mafifi,3/24/2019 9:46:47 PM,1f1adf57-d9cf-4dbe-bee8-c0df393d85aa,126,1,,46,,,Natural IMI,RCT,Assessing the effect of the Tx,,,Cow,,False,,,,Jerseys+Other breeds,,No,No,No,No,
+23,1,1cbfc261-e984-4127-8a16-29dea9825bfc,ADDS\mafifi,3/24/2019 10:19:17 PM,ADDS\mafifi,4/11/2019 9:37:01 PM,07bf3003-19fa-4fa3-ae00-903abedd8b5d,127,1,1,650,,,Natural IMI,RCT,Assessing the effect of the Tx,,"Parity :2-6+
+Cows scc varies from 150-800
+",Cow,4,False,2,6,,Jerseys+Other breeds,,No,Data don't have hierarchical structure,No,Yes,
+24,1,949d6f33-7282-4d13-b53d-1ad04124451a,ADDS\mafifi,3/24/2019 11:53:13 PM,ADDS\mafifi,4/16/2019 1:23:13 AM,0335d917-c448-41e1-9358-560a5d264454,128,1,1,547,,,Natural IMI,RCT,Assessing the effect of the Tx,,The average milk production days = 326 + 73 ,Cow,,False,,,they didn't follow any guidelines,Holsteins,,No,No,Yes,Yes,No information
+25,1,976a06e4-48f0-4618-bc69-066050d8efcd,ADDS\mafifi,3/25/2019 12:21:32 AM,ADDS\mafifi,11/26/2019 6:03:19 PM,8d59e63a-345c-471e-8351-c290b8a19f96,129,1,10,313,,,Natural IMI,RCT,Assessing the effect of the Tx,,"Average scc last month = 630
+Geometric mean scc last month  = 486,000
+Average Daily yield at drying off = 12L
+
+
+
+
+
+
+
+
+",Quarter,4.2,True,1,14,,Jerseys+Other breeds,,No,No,No,No,No
+26,1,ecfdf574-28b4-43d9-a715-b0b959f01753,ADDS\mafifi,3/25/2019 3:51:07 PM,ADDS\mafifi,4/16/2019 1:28:27 PM,e2ca0840-d9bb-49e3-8e55-4683e6dabfa5,130,1,2,46,,146,Natural-Experimental mix,NRSI,Assessing the effect of the Tx,96,"Q naturally (n = 12) 
+Q experimentally (n = 84) infected with
+Staphylococcus aureus 
+",Cow,3.7,True,2,9,,Holst-Jerseys Mix,Staph. aureus,No,No,No,No,No
+27,1,69b0904b-d5b9-4cbb-bd95-ca796d6e2545,ADDS\mafifi,3/25/2019 10:11:15 PM,ADDS\mafifi,3/25/2019 11:32:50 PM,b8a3202b-4548-4757-a26f-7e394bfbddeb,134,1,1,170,,,Natural IMI,RCT,Assessing the effect of the Tx,,"Dry period = 45
+Mean milk production of 23 kg/cow/d
+Have an IMI caused by Staphylococcus spp on the basis of results of microbiological culture of milk samples obtained 5 days prior to dry off
+
+
+",Cow,2.96,True,1,5,,Holsteins,,No,No,Yes,No,
+28,1,915bf43e-e651-4640-8a0a-7325cf1d746c,ADDS\mafifi,3/26/2019 12:32:21 AM,ADDS\mafifi,5/19/2019 6:53:20 PM,6a8c6b63-d345-45bb-827f-28f6b01c2f8e,200,1,1,,,,Natural IMI,RCT,Assessing the effect of the Tx,," Infected cows were excluded from the analysis to avoid
+possible overestimation of infections at calving",Cow,,True,,,,Jerseys+Other breeds,,No,No,Yes,No,No
+29,1,18d4e27e-aff6-41db-985a-53795245cbb3,ADDS\mafifi,4/1/2019 6:53:04 PM,ADDS\mafifi,9/5/2019 2:27:14 PM,c727a66c-03ff-4757-8b24-19c1f6471f2f,213,1,2,240,,,Natural IMI,RCT,Assessing the effect of the Tx,," average milk yield = 4350–8000 l
+ monthly rolling herd somatic cell counts =  210 – 44  /ml
+
+
+
+",Cow,,False,,,,Holsteins,,No,No,Yes,No,No
+30,1,b592648f-f4ad-44fc-b3c6-e8881eb4b020,ADDS\mafifi,4/2/2019 11:48:43 AM,ADDS\mafifi,4/11/2019 11:06:52 PM,9e1de526-16c1-4f13-9d7d-2704733ff947,132,1,1,232,,,Natural IMI,NRSI,Tx_effect and RF,,,Cow,,True,1,5,,Not-reported,,No,No,Yes,No,No information
+31,1,0f769094-abfe-46a9-a485-96f9edee3b78,ADDS\mafifi,4/2/2019 1:29:32 PM,ADDS\mafifi,4/18/2019 8:49:35 PM,0fa5beb0-2d90-4ec7-8872-67d639d81771,268,1,3,150,,,Natural IMI,RCT,Assessing the effect of the Tx,,,Cow,,True,,,,Not-reported,,No,No,Yes,No,
+32,1,9166a0fa-db41-4f42-8897-ebc30c178407,ADDS\mafifi,4/3/2019 2:10:49 PM,ADDS\mafifi,7/9/2019 10:43:36 AM,9f50c971-1f6d-4fc0-b449-6c190d2accd2,346,1,16,1584,,,Natural IMI,RCT,Assessing the effect of the Tx,,"Bulk tank somatic cell count (<250,000 cells/mL) 
+SCC < 200,000 cells/mL 
+average DP= 59
+mean milk yield at last test = 22.25
+Parity = 2 - 4+
+
+",Cow,,True,2,4,,Not-reported,,Yes,Yes,No,No,
+33,1,5ed32d04-7121-4746-9684-73cb04b3fb38,ADDS\mafifi,4/3/2019 5:33:44 PM,ADDS\mafifi,4/11/2019 9:37:17 PM,d0878604-ea83-4b74-bc66-10a8fee4ae51,172,1,4,522,,,Natural IMI,NRSI,Assessing the effect of the Tx,2088, average annual milk yield =  9575 kg,Cow,,True,,,,Holsteins,,Yes,Yes,No,No,Yes
+34,1,7dfa496b-1787-4f7e-a0dd-07121c89a383,ADDS\mafifi,4/4/2019 2:53:43 AM,ADDS\mafifi,5/12/2019 5:17:23 PM,f68c588e-e22c-43c2-935b-c60897dc36d3,264,1,12,1044,,,Natural IMI,RCT,Assessing the effect of the Tx,4176,"DP= at least 60d
+milk cell counts = 100-400
+",Quarter,,True,,,,Not-reported,,No,No,Yes,No,No
+35,1,dd060361-c6c6-4660-a903-8520f3857bdf,ADDS\mafifi,4/4/2019 1:39:35 PM,ADDS\mafifi,5/9/2019 1:04:15 AM,c6144837-cdc3-41a7-a73f-f8bf978c89bf,570,1,4,378,,,Natural IMI,NRSI,Assessing the effect of the Tx,,"scc = 82-376
+DP= 90d
+",Quarter,,True,,,they didn't follow any guidelines,Holst-Jerseys Mix,,No,No,No,Yes,No
+36,1,50c7afd6-9989-467b-9a10-c7102dc0106f,ADDS\mafifi,4/4/2019 11:35:57 PM,ADDS\mafifi,4/8/2019 11:58:07 PM,21549fbc-e8b1-4ba0-a172-71a9b006ce77,613,1,178,,,,Natural IMI,NRSI,Analysis of risk factors,,"mean annual  milk yield was 6558 kg (SD=706)
+",Cow,,True,,,,Norwegian Red,,No,Yes,No,Yes,
+37,1,8fac5055-40a4-4d42-b173-fbb8dfbd54c8,ADDS\mafifi,4/5/2019 4:00:45 PM,ADDS\mafifi,5/12/2019 4:54:04 PM,583832e4-5d30-4683-8f4b-673fd24a0019,225,1,3,632,,,Natural IMI,RCT,Assessing the effect of the Tx,,"Bulk milk SCC = 213392
+Milk yield (l/cow per d) = 4-8",Cow,,False,,,They didn't follow any guidelines,Holst-Jerseys Mix,,No,No,No,Yes,
+38,1,b441d111-993e-4843-86a6-9271a365d1bb,ADDS\mafifi,4/5/2019 8:33:57 PM,ADDS\mafifi,1/22/2020 5:05:36 PM,adad41e3-f90c-4730-8b46-e220e0878399,254,1,2,437,,,Natural IMI,RCT,Assessing the effect of the Tx,1748,"average Dp = 55.5
+average MP per cow/day = 17.49 kg
+",Quarter,,True,,,,Not-reported,,No,Yes,No,No,
+39,1,b5bc6253-dcab-4a46-bb82-809a9053227a,ADDS\mafifi,4/6/2019 6:56:31 PM,ADDS\mafifi,6/13/2020 10:18:40 PM,f214b5e2-f9ee-4eed-9b57-fa753df04978,627,1,5,250,,,Natural IMI,RCT,Others,," mean  Milk yield per cow/ year = 8402
+ Bulk tank somatic cell count =197- 289
+",Cow,,True,1,2,,Holsteins,,No,Yes,No information,Yes,
+41,1,0f2a4588-fe61-4502-bafd-c06e222a53f3,ADDS\mafifi,4/8/2019 12:34:01 AM,ADDS\mafifi,7/13/2019 3:39:05 AM,a5a3395c-e6fe-4c93-8ce3-75f7a0ada9be,351,1,97,1680,,,Natural IMI,RCT,Assessing the effect of the Tx,," 657 primiparous cows + 1000 multiparous cows
+ Median SCC at DO =  121 (46–310) NOAB group,  120 (47–315) AB group
+
+
+
+
+
+",Quarter,,True,,,,Not-reported,,No,Yes,Yes,No,No
+42,1,045c911f-c347-4f18-8be2-dfeae9c3c497,ADDS\mafifi,4/8/2019 1:46:33 AM,ADDS\mafifi,4/8/2019 3:45:02 PM,f647a380-340f-4f71-b971-ec19cc525f7b,408,1,4,402,,,Natural IMI,NRSI,Assessing the effect of the Tx,,,Cow,,True,,,,Not-reported,,No,No,Yes,No,
+43,1,82a062f9-0a64-441b-8e21-d936e22dba23,ADDS\mafifi,4/8/2019 8:48:51 PM,ADDS\mafifi,11/27/2019 12:12:27 AM,abd21287-f6ff-4a4d-97a1-a24b1768ea5c,319,1,16,939,,,Natural IMI,NRSI,Assessing the effect of the Tx,3731,"They have 1 herd from Kansas
+
+",Quarter,,True,,,,Holsteins,,No,Yes,No,Yes,
+44,1,62d71cb7-9bb0-4a35-a217-8e7f9969378e,ADDS\mafifi,4/9/2019 8:20:41 PM,ADDS\mafifi,4/9/2019 9:32:07 PM,399c7e05-9633-4389-9733-befdeffac17d,255,1,3,95,,,Natural IMI,NRSI,Assessing the effect of the Tx,322,"average milk yield =  22-25 kg/day
+monthly bulk tank somatic cell count (BTSCC) of the herds ranged from 150 000 - 350 000 cells/mL
+DP =  56 - 65 d.
+
+",Quarter,,False,2,3,,Holsteins,,No,No,Yes,No,
+45,1,d74c27f3-5d60-40f5-9f1d-e602a1c89c49,ADDS\mafifi,4/9/2019 9:13:01 PM,ADDS\mafifi,5/12/2019 4:47:57 PM,42856fae-038c-433b-8019-00fd7752497e,298,1,1,150,,,Natural IMI,NRSI,Assessing the effect of the Tx,600,"mean production of 9,000 kg of milk per lactation
+
+",Quarter,,False,,,They didn't follow any guidelines,Holsteins,,No,No,No,Yes,
+46,1,5fb374cf-99d2-4444-9335-88ae77de90ac,ADDS\mafifi,4/9/2019 11:59:49 PM,ADDS\mafifi,10/30/2019 11:00:13 PM,c4b985c2-48a2-4ab2-9d31-76aec5ca9794,305,1,4,185,,,Natural IMI,RCT,Assessing the effect of the Tx,,"Mean rolling herd averages for the farms = 9300 k
+(range, 8860 to 9700) of milk 
+mean SCC =  215 x 10 (range, 170 to 250)/
+",Cow,,True,,,,Holsteins,,No,No,Yes,Yes,
+47,1,ce679205-7b4d-4ce4-8755-f0ae9ffe7f4e,ADDS\mafifi,4/10/2019 12:40:59 AM,ADDS\mafifi,4/10/2019 1:39:23 AM,0112a712-6dab-4e31-9812-6531086ed00b,312,1,21,431,,,Natural IMI,RCT,Assessing the effect of the Tx,1708,"herds have a history of mastitis 
+Cows with SCC <400 cells/ml or less or a linear SCC score of 5 or less 
+Parity  = 1 - 4+",Cow,,False,,,,Holsteins,,Yes,Yes,Yes,No,
+48,1,473948e0-5a74-4ec1-b10a-e0341c927d0f,ADDS\mafifi,4/10/2019 2:32:58 PM,ADDS\mafifi,4/10/2019 3:01:25 PM,34ab5983-5028-4e8d-a48b-ad22d7ddbc8d,313,1,24,294,,,Natural IMI,RCT,Assessing the effect of the Tx,1163,"Parity = 1 - 3+
+DP =  65.4 ± 8.0
+ Linear score last DHI test = 3.1 ± 1.4
+ Daily milk yield last DHI test (Kg) =  17.3 ± 6.2
+
+
+
+
+",Cow,,False,,,,Holst-Jerseys Mix,,Yes,Yes,No,Yes,
+49,1,f6270f63-e4d2-4a37-9034-144af5ba5ed8,ADDS\mafifi,4/10/2019 5:04:48 PM,ADDS\mafifi,4/11/2019 1:37:25 AM,3df95a26-4e56-47e7-9b2a-9881530ed09e,314,1,1,80,,,Natural IMI,RCT,Assessing the effect of the Tx,320,,Cow,,False,,,There wasn't any describtion of the methods used ,Brown Swiss,,No,No,Yes,Yes,
+50,1,c5c508b6-1986-4613-bdab-a70d59dd777e,ADDS\mafifi,4/11/2019 1:18:34 PM,ADDS\mafifi,4/11/2019 2:48:50 PM,49b76843-adac-4dc3-8daf-5946d200c6d9,315,1,77,288,,,Natural IMI,RCT,Tx_effect and RF,,,Cow,2,False,1,9,,Not-reported,,No,Yes,No,No,
+51,1,1ff3808d-5f7c-4bd8-87c4-cdc77cbfb338,ADDS\mafifi,4/11/2019 2:48:29 PM,ADDS\mafifi,4/16/2019 1:16:58 PM,ed9e1309-d87a-4f7a-a012-904bc3c7453c,328,1,1,168,,,Natural IMI,NRSI,Tx_effect and RF,672,"parity= 1-4+
+DP = 62.9+/-3.5
+",Cow,,False,,,,Holst-Jerseys Mix,,,,,,
+52,1,c9ca5e32-c6c1-4281-9c31-993b75788caa,ADDS\mafifi,4/14/2019 3:08:40 PM,ADDS\mafifi,4/14/2019 3:21:17 PM,07299208-f745-4c27-beeb-cbcfb80d8b11,689,1,1,,,,Natural IMI,RCT,Assessing the effect of the Tx,,,Cow,,False,,,They didn't follow any guidelines,Holsteins,,No,No,Yes,Yes,No information
+53,1,a5f9b3cd-4eaf-4aaa-9818-6087cf590923,ADDS\mafifi,4/16/2019 1:54:19 PM,ADDS\mafifi,6/27/2019 7:33:10 PM,0ade86c1-39f8-4b09-9589-d1d6aad57f5b,176,1,1,109,,,Natural IMI,NRSI,Assessing the effect of the Tx,,,Cow,,False,,,,Not-reported,,No,No,Yes,Yes,No information
+54,1,71752424-48b3-465e-85f2-bb65166c0241,ADDS\mafifi,4/21/2019 10:51:12 PM,ADDS\mafifi,7/10/2019 1:45:02 AM,5fd15b28-6de9-450b-b7b5-089f191d0a71,182,1,10,632,,,Natural IMI,RCT,Assessing the effect of the Tx,2528,"
+
+",Cow,,False,,,no guidelines,Not-reported,,No,No,No,No,No information
+55,1,98eb6282-c99d-4ca1-8ee3-14c76871b8ee,ADDS\mafifi,4/22/2019 12:06:06 AM,ADDS\mafifi,9/10/2019 12:26:58 PM,c16ccf41-ed1e-4777-ae98-45647461063e,212,1,12,152,,,Natural IMI,NRSI,Tx_effect and RF,,  average milk yield =  8000 kg per standard lactation,Cow,,True,2,8,,Holsteins,,No,No,No,No,No information
+56,1,459bea0c-500a-4570-9ecd-f4a746028465,ADDS\mafifi,4/22/2019 3:40:09 PM,ADDS\mafifi,4/23/2019 3:02:55 PM,01c6532a-105e-48ec-a4c6-b38bf939642b,349,1,16,505,,,Natural IMI,RCT,Assessing the effect of the Tx,,"averageDP = 68.35 d
+average Drying off SCC Q = 239.62
+12-mo geometric mean BMSCC <200,000 cells/ml (54,000 and 163,000 cells/ml)
+305-d adjusted milk yields ranged from 5000 to 8500 L
+
+.
+
+
+",Cow,3.499,True,,,,Not-reported,,Yes,Yes,No,No,Yes
+57,1,1d8a7fb4-1b39-449e-851c-bcd7cd0f9b23,ADDS\mafifi,4/24/2019 12:23:29 AM,ADDS\mafifi,4/24/2019 12:49:49 AM,0d3716e6-1b77-41e8-bd0f-e809e124d5a6,353,1,2,402,,,Natural IMI,RCT,Assessing the effect of the Tx,,,Cow,,True,,,,Not-reported,,No,Data don't have hierarchical structure,No,Yes,No
+58,1,5e69bf63-8599-4561-af83-166c453e863d,ADDS\mafifi,4/24/2019 10:54:51 AM,ADDS\mafifi,4/24/2019 11:46:29 AM,bcb9c4f0-f117-490c-aab7-39bf69fa7df0,394,1,1,259,,,Natural IMI,RCT,Assessing the effect of the Tx,300,"Q  subclinically infected with gram positive bacteria provide all degrees of subclinical mastitis. 
+
+",Quarter,,True,,,,Holsteins,,Yes,No,Yes,No,No information
+59,1,66d27316-e4b5-43d6-a51a-6f1a6c52f24f,ADDS\mafifi,4/24/2019 11:50:50 AM,ADDS\mafifi,9/10/2019 3:55:33 PM,729eb2f2-103c-4cff-8e50-2946e17c2ba6,420,1,3,500,,,Natural IMI,NRSI,Tx_effect and RF,1208,,Cow,,True,,,No standard guidelines have been followed ,Not-reported,,No,No,No,Yes,
+60,1,823f8db9-a258-4fe8-a9d6-47755f028e16,ADDS\mafifi,4/24/2019 12:50:15 PM,ADDS\mafifi,4/24/2019 1:04:47 PM,37ee01b6-2307-4e5e-aea7-f063b92b85e3,421,1,40,92,,,Natural IMI,RCT,Tx_effect and RF,121,average Dry-period length (d) =  66,Cow,2.9,False,1,8,,Not-reported,,No,Yes,Yes,No,No information
+61,1,83cfd263-b724-4d2c-8369-18242f8a95d0,ADDS\mafifi,4/24/2019 1:55:22 PM,ADDS\mafifi,4/24/2019 1:55:22 PM,40e92764-6852-4452-bd92-d7d2f6f93e77,424,1,28,624,,,Natural IMI,RCT,Assessing the effect of the Tx,,,Cow,,False,,,,Holsteins+Other breeds,,,,,,
+62,1,49ba4141-1afd-4cc4-86c6-8edc50feac1d,ADDS\mafifi,4/24/2019 2:28:06 PM,ADDS\mafifi,5/7/2019 3:53:06 AM,af4367f9-a73b-44a8-bc81-bfc3b865b32d,429,1,1,340,,,Natural IMI,RCT,Assessing the effect of the Tx,,,Cow,1,True,,,no standard guidelines were followed ,Holsteins,,Yes,No,No,Yes,Yes
+63,1,921e6e09-c87e-4648-8f0d-af6c2b904773,ADDS\mafifi,4/30/2019 6:37:24 PM,ADDS\mafifi,5/12/2019 7:28:50 PM,54ddacac-4e89-4601-b5f4-493bd42570ed,472,1,16,,,,Natural IMI,NRSI,Assessing the effect of the Tx,, average MP = 6340 kg milk+/-866,Cow,,False,1,8,,Not-reported,,No,No,No information,Yes,No information
+64,1,d5627d5f-844c-4842-96b9-e452ff644a60,ADDS\mafifi,5/3/2019 3:07:39 PM,ADDS\mafifi,5/21/2019 12:00:04 PM,d76c022c-65c9-4e7c-86a5-b902fca6b7c7,508,1,1,90,,,Natural IMI,NRSI,Assessing the effect of the Tx,,,Cow,,True,,,,Not-reported,,No,No,No,No,No
+65,1,60d16505-d448-4240-97b4-f18cf114a547,ADDS\mafifi,5/6/2019 12:21:15 AM,ADDS\mafifi,5/9/2019 5:52:47 AM,8bc35b96-7c64-4861-9d07-398bf0a7e4b0,334,1,5,,,,Natural IMI,NRSI,Assessing the effect of the Tx,,Holstein(2 herds)+Jersey+Brown Swiss+Ayrshire,Cow,,False,,,no standard guideline have been followed in bacteriological methods,Holsteins+Other breeds,,No,No,No information,Yes,No
+66,1,5c2dc0cd-3457-46f1-a90c-2cf65eb4ee3e,ADDS\mafifi,5/7/2019 4:16:44 PM,ADDS\mafifi,10/13/2019 1:45:19 PM,47bf89a2-5f16-41e3-a8ee-fe6d98d469f1,523,1,6,1207,,,Natural IMI,NRSI,Assessing the effect of the Tx,,,Cow,,False,,,,Not-reported,,No,No,No information,No,No information
+67,1,c0b85cdf-6018-4b52-afcc-3d42c7aeaf50,ADDS\mafifi,5/7/2019 6:47:00 PM,ADDS\mafifi,5/8/2019 12:52:11 PM,e9f57934-57fb-426d-ae75-93486e23f91e,529,1,10,313,,,Natural IMI,RCT,Assessing the effect of the Tx,1252,,Quarter,,True,,,,Not-reported,,No,,No,,Yes
+68,1,5287f028-49d8-435d-bfce-214049e30210,ADDS\mafifi,5/8/2019 1:30:02 PM,ADDS\mafifi,5/8/2019 1:30:02 PM,d33399c2-422d-4cce-adf2-da7361d2e273,541,1,75,1318,,,Natural IMI,RCT,Assessing the effect of the Tx,,,Cow,,False,,,,,,,,,,
+69,1,e16a37f0-f169-4172-8e3e-c9c4d1e57225,ADDS\mafifi,5/8/2019 1:53:36 PM,ADDS\mafifi,5/8/2019 2:00:15 PM,fa24183d-3d50-4b94-99bd-c2dbf0201c80,562,1,1,44,,,Natural IMI,RCT,Assessing the effect of the Tx,,,Cow,,False,,,,Holsteins,,No,No,No information,No,No information
+70,1,e878590f-6a08-4f00-8edb-4e87f1d89bd9,ADDS\mafifi,5/8/2019 2:33:39 PM,ADDS\mafifi,5/9/2019 1:01:29 AM,95804f1b-c5ae-4f4e-afb0-2423a4523e0b,564,1,,156,,,Natural IMI,RCT,Assessing the effect of the Tx,,"cows were teat dipped during the postpartum period prior
+to sampling",Cow,,False,,,,Holst-Jerseys Mix,,No,No,No,No,Yes
+71,1,6c37cc23-b51a-4865-b992-c700a6841f28,ADDS\mafifi,5/9/2019 1:11:19 AM,ADDS\mafifi,11/27/2019 7:30:32 PM,389d10d1-b7f8-4977-9a19-3531e2664097,571,1,3,528,,,Natural IMI,RCT,Assessing the effect of the Tx,,Cows having SCCs < 200 000 cells/ml,Quarter,,True,1,,Standard guidelines have not been followed ,Holst-Jerseys Mix,,No,No,No,Yes,No
+72,1,498e2aeb-19ba-4840-80e8-a161a8666013,ADDS\mafifi,5/9/2019 1:59:33 AM,ADDS\mafifi,6/21/2019 5:12:56 AM,41750a93-0cb6-4c8d-98c2-11c942016827,578,1,6,1681,,,Natural IMI,RCT,Non-inferiority trial,,"
+
+",Cow,,False,,,,Holsteins+Other breeds,,Yes,Yes,No,No,No
+73,1,2bf3bf29-33f6-48d0-bbaa-3ed2f99ecd84,ADDS\mafifi,5/9/2019 3:14:41 AM,ADDS\mafifi,5/9/2019 5:46:52 AM,400816d9-f2e4-4621-8fa3-637d13f1f1e1,579,1,1,68,,,Natural IMI,RCT,Assessing the effect of the Tx,, average  dry period = 74 ± 32 d.,Quarter,,False,,,no standards,Holsteins,,,,No,Yes,No
+74,1,004fe0de-841e-4bcc-834a-66c99d69a2e4,ADDS\mafifi,5/11/2019 3:51:39 AM,ADDS\mafifi,5/12/2019 2:24:46 PM,6230f82b-e533-4350-a1c7-5a339859c204,581,1,6,1091,,,Natural IMI,RCT,Non-inferiority trial,4364,dry period length  = 54.2 ± 11.5 d,Cow,2.9,True,,,,Not-reported,,Yes,Yes,Yes,No,No
+75,1,c66a57fa-a76f-42eb-8c62-1aed597e9b85,ADDS\mafifi,5/12/2019 2:33:07 PM,ADDS\mafifi,5/21/2019 1:03:16 PM,80d05140-fc8b-41c2-b306-8f251a1f3a40,583,1,8,590,,,Natural IMI,RCT,Non-inferiority trial,2360,,Cow,,False,,,,Not-reported,,Yes,Yes,No,No,
+76,1,35a5f634-70b4-49c4-b345-dfce9fb9fd3d,ADDS\mafifi,5/12/2019 7:59:39 PM,ADDS\mafifi,10/30/2019 8:13:21 PM,4997f2b8-8d26-44ff-9c68-6d633f27c8e6,286,1,20,20,,,Natural IMI,NRSI,Analysis of risk factors,,,Cow,,False,,,,Not-reported,,,,,,
+77,1,f9850073-745f-4614-acfb-cedffd74b618,ADDS\mafifi,5/13/2019 5:51:57 AM,ADDS\mafifi,9/10/2019 5:25:40 PM,a087e0dc-83cb-49c6-9571-9c068c3786ff,196,1,1,25,,299,Experimental IMI,NRSI,Assessing the effect of the Tx,100,,Quarter,3.2,False,1,9,no standard guidelines,Holsteins,Staph. aureus,No,No,No,Yes,No CM cases have been reported
+78,1,ff341110-d15e-4a43-8ed9-1dae632226dc,ADDS\mafifi,5/13/2019 6:10:20 AM,ADDS\mafifi,9/10/2019 5:25:46 PM,a087e0dc-83cb-49c6-9571-9c068c3786ff,196,2,2,,,,Natural IMI,NRSI,Assessing the effect of the Tx,3652,,Quarter,,False,,,,Not-reported,,No,No,No information,Yes,No information
+79,1,a28b7cfd-34b3-4235-b845-14adeb8df14d,ADDS\mafifi,5/13/2019 7:29:08 AM,ADDS\mafifi,5/13/2019 7:55:39 AM,a087e0dc-83cb-49c6-9571-9c068c3786ff,196,3,,17,,,Experimental IMI,RCT,Assessing the effect of the Tx,,,Quarter,,False,,,,Not-reported,Staph. aureus,No,No,Yes,Yes,No CM cases have been reported
+80,1,30f720bd-af2d-4325-a419-87ca8d7f0964,ADDS\mafifi,5/13/2019 7:55:17 AM,ADDS\mafifi,5/13/2019 8:00:16 AM,a087e0dc-83cb-49c6-9571-9c068c3786ff,196,4,,14,,,Natural IMI,RCT,Assessing the effect of the Tx,,,Quarter,,False,,,,Not-reported,,,No,No information,Yes,No
+81,1,a708f5c1-c94d-4ca7-a95e-658ae96f7aaf,ADDS\mafifi,5/27/2019 1:45:34 PM,ADDS\mafifi,5/27/2019 1:45:35 PM,f211bfbb-14ff-4784-8737-0da9ef237b8b,329,1,,,,,Experimental IMI,RCT,Assessing the effect of the Tx,,average,Cow,,False,,,,Not-reported,,,,,,
+82,1,a3592e3f-dedb-403b-9506-05c5e702f9b8,ADDS\mafifi,6/2/2019 2:26:51 AM,ADDS\mafifi,6/10/2019 1:35:13 AM,3199e3e6-b4a8-4bd1-b24d-cf3f754fda54,719,1,1,16,0.2,,Experimental IMI,NRSI,Assessing the effect of the Tx,,,Cow,,False,1,5,,Not-reported,Staph. aureus,No,No,Yes,No,No information
+83,1,e2267090-8c38-4a4a-a385-7fdd92c9488f,ADDS\mafifi,6/10/2019 1:51:26 AM,ADDS\mafifi,6/10/2019 2:07:20 AM,0627fc99-dc00-42e9-9c24-813b47a9bc06,667,1,1,106,,,Natural IMI,RCT,Assessing the effect of the Tx,,"herd's average annual milk production  =  9333 L per cow
+mean SCC = 619,000 cells/ml
+
+
+
+
+
+",Cow,,False,,,no standard methods were followed,Holsteins,,No,No,No information,Yes,No information
+84,1,e9a71860-f2f1-45c0-ac89-d0583fd8e5e2,ADDS\mafifi,6/10/2019 2:29:59 AM,ADDS\mafifi,6/10/2019 2:55:31 AM,b3dbc70e-e14e-41fa-ac5a-a675faf85f7e,608,1,13,414,,,Natural IMI,RCT,Tx_effect and RF,1633,"The average annual milk yield =  8,172 kg (range: 6,000 to 10,400 kg). 
+The average annual bulk milk SCC =  242,000/mL (range: 160,000 to 379,000/mL)
+Parity = 2 - >4
+
+",Cow,,True,2,,,Holsteins+Other breeds,,No,Yes,No information,No,Yes
+85,1,015d74cb-fed9-4442-bf91-6643f6ccb556,ADDS\mafifi,6/10/2019 3:08:50 AM,ADDS\mafifi,9/10/2019 5:17:01 PM,fda51b06-bdd4-421e-80f0-f7ea82ff33e8,584,1,4,799,,,Natural IMI,RCT,Non-inferiority trial,,"average SCC linear score at dry off =  3.1 ± 1.9
+Previous lactation milk yield (kg) =  13432 kg ± 3763
+Dry period length (d) =  58.0 ± 10.8 d
+
+
+
+
+
+
+",Cow,2.7,True,,,,Holsteins,,Yes,Yes,No,No,Yes
+86,1,cee4e206-2dfd-4f10-b431-49a4c759fc73,ADDS\mafifi,6/26/2019 3:52:18 PM,ADDS\mafifi,6/26/2019 4:13:27 PM,11d4b52a-329d-4223-b3b1-532636707b18,216,1,288,684,,,Natural IMI,RCT,Assessing the effect of the Tx,,,Cow,,False,1,,,Norwegian Red,,No,No,No,Yes,No
+88,1,d0ab817a-8b10-45ed-866e-577fc64b0464,ADDS\mafifi,11/27/2019 8:00:04 PM,ADDS\mafifi,11/27/2019 11:29:43 PM,bc1235a3-ede9-4517-987b-5d81200dcebe,44,1,3,825,,,Natural IMI,RCT,Assessing the effect of the Tx,2112,"* no clinical signs of disease
+* had four functional quarters 
+*free of teat abnormality (other than hyperkeratosis) or trauma
+* had not received antibiotic or anti-inflammatory treatment within the previous 30 days
+* expected to calve within 100 days
+* average milk production was 11,378 kg
+* Dry Period Length (SE, days) = 60.49
+",Cow,1.9,True,,,,Not-reported,,No,Yes,No information,No,No information
+89,1,97d9e542-b67b-4549-8f7e-5a8895cf0ce3,ADDS\mafifi,11/27/2019 11:42:43 PM,ADDS\mafifi,11/28/2019 5:04:50 PM,1f090ec9-804b-473c-bc3f-0e219ea52c74,803,1,1,92,,,Natural IMI,RCT,Assessing the effect of the Tx,,,Cow,,True,,,,Holsteins,,No,No,No information,No,No information
+90,1,eaaddede-3740-4eb6-b836-250e6314f961,ADDS\mafifi,11/28/2019 2:30:20 AM,ADDS\mafifi,11/28/2019 2:30:53 AM,bcbe1667-5bda-4f8c-9221-b237384314fb,804,1,2,401,,,Natural IMI,RCT,Tx_effect and RF,1604,,Quarter,,False,,,,,,,,,,
+91,1,b98294fd-58df-40f7-acdd-75caf3a85b8a,ADDS\mafifi,6/11/2020 4:57:25 PM,ADDS\mafifi,6/11/2020 6:42:50 PM,c4e6d468-7932-4b7b-b96c-8c6c61751e68,904,1,3,156,,,Natural IMI,RCT,Assessing the effect of the Tx,,Experiment 18,Quarter,,True,3.8,4.1,,Holsteins,Staph-Strept mix,No,No,No information,Yes,No information
+92,1,860d75d2-04c6-4dad-945c-c51a1bfaed72,ADDS\mafifi,6/11/2020 5:42:17 PM,ADDS\mafifi,6/11/2020 6:42:13 PM,c4e6d468-7932-4b7b-b96c-8c6c61751e68,904,2,2,168,,,Natural IMI,RCT,Assessing the effect of the Tx,666,Experiment 19,Quarter,,False,,,,Holsteins,,No,No,No information,Yes,No information
+93,1,13035203-6624-451a-beba-4c775b67e853,ADDS\mafifi,6/11/2020 6:40:50 PM,ADDS\mafifi,6/11/2020 7:01:14 PM,c4e6d468-7932-4b7b-b96c-8c6c61751e68,904,3,,,,,Natural IMI,RCT,Assessing the effect of the Tx,,Experiment 20,Quarter,,False,,,,,,No,No,No information,Yes,No information

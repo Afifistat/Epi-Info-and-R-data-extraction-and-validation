@@ -1,0 +1,233 @@
+"UniqueKey","RECSTATUS","GlobalRecordId","FirstSaveLogonName","FirstSaveTime","LastSaveLogonName","LastSaveTime","FKEY","study_id_expo","trial_expo","Group_expo","Time1","dayspostcalving","from1","to1","Def","COV","DetectionMethod","Ounit1","stratifyingvariable","study_id_expo1","T","trial_expo1","U","Estimatetype","Estimatescale","Group_expo1","CIlevel"
+1,1,f0f80d25-bfd1-441e-bc87-6421c77ed324,ADDS\mafifi,1/7/2019 1:42:03 PM,ADDS\mafifi,1/7/2019 2:01:04 PM,063c80c1-d680-4dc1-9097-24b98e3881bc,709,1,1_Cephalonium,1,,0,10," the absence of a pathogen in the post-calving
+sample that had been present at DO",,Culture,Quarter,No-stratification (totals),,,,,,,,
+2,1,84d16ac5-2f7d-461f-801b-c94165618d74,ADDS\mafifi,1/7/2019 1:44:12 PM,ADDS\mafifi,10/31/2019 1:51:05 PM,82c3ff03-f480-4a8d-8009-aa27abe13b3c,709,1,2_Cephalonium+TS,1,,0,10,,,Culture,Quarter,No-stratification (totals),709,1,1,Quarter,,,2_Cephalonium+TS,
+3,1,d113c58d-6335-4d99-b306-437285ccea0b,ADDS\mafifi,1/7/2019 1:46:13 PM,ADDS\mafifi,1/7/2019 2:04:03 PM,bc0e4a34-21f0-4361-9680-bc6734a22fb2,709,1,3_TS only,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+4,1,cdbbc98e-8b2e-4ee3-9b1f-d907bed9aefa,ADDS\mafifi,1/7/2019 1:49:14 PM,ADDS\mafifi,1/7/2019 2:05:27 PM,3cc767d4-d034-417c-b485-9c8b27861d42,709,1,4_Cephalonium+TS,1,,0,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+5,1,c31b4cd3-dcbc-48fa-a526-bf01d6aa17a4,ADDS\mafifi,3/20/2019 6:51:03 PM,ADDS\mafifi,3/26/2019 2:12:30 PM,8fc60e5d-16d9-4db0-a2b6-8af8237c6395,25,1,1_Cloxa,1,15,,,all quarters from which it was not possible to isolate the bacteria initially present when two samples were taken,,Culture,Quarter,No-stratification (totals),,,,,,,,
+6,1,74c9e9b7-5e9f-464f-9f8b-8a2285119810,ADDS\mafifi,3/20/2019 6:53:41 PM,ADDS\mafifi,3/20/2019 7:19:44 PM,1f5b76df-b33f-4550-8bc2-8a3af01a9825,25,1,2_PenicillinG,1,,,,all quarters from which it was not possible to isolate the bacteria initially present when two samples were taken.,,Culture,Quarter,No-stratification (totals),,,,,,,,
+7,1,7fae4a47-b454-4ced-8e1e-c1279b76a3b5,ADDS\mafifi,3/20/2019 7:07:11 PM,ADDS\mafifi,3/20/2019 7:19:35 PM,1f5b76df-b33f-4550-8bc2-8a3af01a9825,25,1,2_Pen+strept,1,,,,all quarters from which it was not possible to isolate the bacteria initially present when two samples were taken.,,Culture,Quarter,Others,,,,,,,,
+8,1,3e1e2d28-7e76-4ced-a61e-0e64842bfa95,ADDS\mafifi,3/20/2019 7:19:10 PM,ADDS\mafifi,3/24/2019 1:14:04 AM,8fc60e5d-16d9-4db0-a2b6-8af8237c6395,25,1,1_Cloxa,1,15,,,all quarters from which it was not possible to isolate the bacteria initially present when two samples were taken,,Culture,Quarter,Others,,,,,,,,
+9,1,0f6ddd3a-aa90-4ce0-977b-c29265976821,ADDS\mafifi,3/21/2019 11:34:21 AM,ADDS\mafifi,3/21/2019 11:34:21 AM,f5214058-4423-4691-8da7-3a23954e4f42,59,1,1_-ve control,1,7,,,not reported,,Culture,Cow,No-stratification (totals),,,,,,,,
+10,1,1cb019dd-13a3-49bf-a015-2fed7cfb28a8,ADDS\mafifi,3/21/2019 11:34:52 AM,ADDS\mafifi,3/21/2019 11:39:19 AM,f5214058-4423-4691-8da7-3a23954e4f42,59,1,1_-ve control,1,7,,,not reported,,Culture,Quarter,No-stratification (totals),,,,,,,,
+11,1,4a1604f3-7d71-47d6-9500-838f0256db1c,ADDS\mafifi,3/21/2019 11:35:47 AM,ADDS\mafifi,3/21/2019 11:35:47 AM,56904588-58e8-45f4-8ae4-b38e62ad5b89,59,1,2_Spiramycin,1,7,,,,,Culture,Cow,No-stratification (totals),,,,,,,,
+12,1,658f4a6c-7ac3-4b74-9675-3e7eb9539c65,ADDS\mafifi,3/21/2019 11:36:11 AM,ADDS\mafifi,3/21/2019 11:36:11 AM,56904588-58e8-45f4-8ae4-b38e62ad5b89,59,1,2_Spiramycin,1,7,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+13,1,cda7674d-b1ef-467c-ac76-d89bea0c7783,ADDS\mafifi,3/21/2019 11:36:56 AM,ADDS\mafifi,3/21/2019 11:36:56 AM,6436e0f0-4e3e-42a1-a7bf-727c3bdd2d4a,59,1,3_Spiramycin,1,7,,,,,Culture,Cow,No-stratification (totals),,,,,,,,
+14,1,a5266644-9440-49ef-8348-c48597db5a22,ADDS\mafifi,3/21/2019 11:37:17 AM,ADDS\mafifi,3/21/2019 11:37:17 AM,6436e0f0-4e3e-42a1-a7bf-727c3bdd2d4a,59,1,3_Spiramycin,1,7,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+15,1,e003b47b-008c-4049-8c5a-62d10d1012db,ADDS\mafifi,3/21/2019 11:38:12 AM,ADDS\mafifi,3/21/2019 11:38:12 AM,03f324a2-66f8-4547-b115-fb2bf939aba9,59,1,4_Spiramycin,1,7,,,,,Culture,Cow,No-stratification (totals),,,,,,,,
+16,1,40a99d00-7c81-4850-bb0b-d6396d1dd048,ADDS\mafifi,3/21/2019 11:38:38 AM,ADDS\mafifi,3/21/2019 11:38:38 AM,03f324a2-66f8-4547-b115-fb2bf939aba9,59,1,4_Spiramycin,1,7,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+17,1,1c2aee72-2e29-4fa8-81ee-c73a51e756af,ADDS\mafifi,3/21/2019 1:49:24 PM,ADDS\mafifi,3/21/2019 1:49:24 PM,e8ce1f96-7f15-48af-9ff9-c771b0493625,108,1,1_Novobiocin+Pen,1,21,,,Absence of causative organism in all subsequent milk samples,,Culture,Quarter,No-stratification (totals),,,,,,,,
+18,1,ca341b0d-4ac6-4a57-b5ba-516f407327c7,ADDS\mafifi,3/21/2019 1:52:43 PM,ADDS\mafifi,3/21/2019 1:52:43 PM,5553a5be-9243-4db2-89af-71ececaec647,108,1,2_Novobiocin+Pen,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+19,1,415e829a-ffac-4240-814b-d1f8233807fe,ADDS\mafifi,3/21/2019 1:54:42 PM,ADDS\mafifi,3/21/2019 1:55:47 PM,36ed0164-eb8a-4656-8a65-927b4017db92,108,1,3_-ve control,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+20,1,3c66293b-4fe8-43a9-a3ac-20fdcf169698,ADDS\mafifi,3/21/2019 2:52:28 PM,ADDS\mafifi,3/21/2019 5:30:58 PM,0c302109-6c5a-493d-aa15-dfa6dcc80200,110,1,1_Cloxa,1,,2,4,"A quarter was regarded as cured, or quarter infection eliminated when the type of pathogen isolated at drying off was not recovered from the milk sample collected after calving.",,Culture,Quarter,No-stratification (totals),,,,,,,,
+21,1,965202e3-843b-419e-8d87-66b7e6d9ba36,ADDS\mafifi,3/21/2019 2:56:11 PM,ADDS\mafifi,3/21/2019 5:12:50 PM,0c302109-6c5a-493d-aa15-dfa6dcc80200,110,1,1_Cloxa,1,,2,4,"A quarter was regarded as cured, or quarter infection eliminated when the type of pathogen isolated at drying off was not recovered from the milk sample collected after calving.",,Culture,Quarter,Parity,,,,,,,,
+22,1,d34e5710-8a58-4f4e-b56c-b3b76c2a6363,ADDS\mafifi,3/21/2019 5:15:05 PM,ADDS\mafifi,3/21/2019 5:31:54 PM,863fe45a-2299-405a-b35c-e26cb17e93cf,110,1,2_Naficillin+Pen+Strept,1,,2,4,"A quarter was regarded as cured, or quarter infection eliminated when the type of pathogen isolated at drying off was not recovered from the milk sample collected after calving.",,Culture,Quarter,No-stratification (totals),,,,,,,,
+23,1,ce8e9f22-2815-431d-ba7c-3da6103ea076,ADDS\mafifi,3/21/2019 5:33:44 PM,ADDS\mafifi,3/21/2019 5:33:44 PM,863fe45a-2299-405a-b35c-e26cb17e93cf,110,1,2_Naficillin+Pen+Strept,1,,2,4,"A quarter was regarded as cured, or quarter infection eliminated when the type of pathogen isolated at drying off was not recovered from the milk sample collected after calving.",,Culture,Quarter,Parity,,,,,,,,
+24,1,60503dd8-5b20-4975-bf78-831b1821abf3,ADDS\mafifi,3/21/2019 5:35:21 PM,ADDS\mafifi,3/21/2019 5:35:21 PM,accf12e6-1528-453a-85cc-0727cf492fe5,110,1,3_Cephalonium,1,,,,"A quarter was regarded as cured, or quarter infection eliminated when the type of pathogen isolated at drying off was not recovered from the milk sample collected after calving.",,Culture,Quarter,No-stratification (totals),,,,,,,,
+25,1,6bb270dc-b250-447d-ad1e-87f758bdd8b8,ADDS\mafifi,3/21/2019 5:36:57 PM,ADDS\mafifi,3/21/2019 5:36:57 PM,accf12e6-1528-453a-85cc-0727cf492fe5,110,1,3_Cephalonium,1,,,,"A quarter was regarded as cured, or quarter infection eliminated when the type of pathogen isolated at drying off was not recovered from the milk sample collected after calving.",,Culture,Quarter,Parity,,,,,,,,
+26,1,6c710c38-e10a-4bdf-a562-de3ba137c246,ADDS\mafifi,3/23/2019 1:48:07 AM,ADDS\mafifi,3/23/2019 1:55:42 AM,d8f68ad9-47e1-4b90-836d-b60e5bcd5fbe,115,1,1_Naficillin+Pen+Strept,1,7,,,Cure rate based on first after calving sample,,Culture,Quarter,No-stratification (totals),,,,,,,,
+27,1,202da8a7-4064-4223-a90d-917f2b0da786,ADDS\mafifi,3/23/2019 1:48:20 AM,ADDS\mafifi,3/23/2019 1:55:59 AM,d8f68ad9-47e1-4b90-836d-b60e5bcd5fbe,115,1,1_Naficillin+Pen+Strept,2,14,,,Cure rate based on both after calving samples,,Culture,Quarter,No-stratification (totals),115,2,1,Quarter,OR,linear,1_Naficillin+Pen+Strept,95%
+28,1,705414e8-99bc-40b2-9464-e5cc05507925,ADDS\mafifi,3/23/2019 2:05:12 AM,ADDS\mafifi,3/23/2019 2:06:29 AM,ac1869a4-c09a-49b4-aed6-4567d2c9504c,115,1,2_Cefquinome,1,7,,,Cure rate based on first after calving sample,,Culture,Quarter,No-stratification (totals),,,,,,,,
+29,1,b7975a16-08cd-452d-964b-292dc496c1e7,ADDS\mafifi,3/23/2019 2:06:05 AM,ADDS\mafifi,3/23/2019 2:06:18 AM,ac1869a4-c09a-49b4-aed6-4567d2c9504c,115,1,2_Cefquinome,2,14,,,Cure rate based on first after calving sample,,Culture,Quarter,No-stratification (totals),,,,,,,,
+30,1,3c447dd8-ef3d-49a6-a710-f47918d588be,ADDS\mafifi,3/23/2019 10:49:46 PM,ADDS\mafifi,9/10/2019 3:04:07 PM,dec85153-a80f-4f29-8a2a-4464ff36cbd3,118,1,1_Cefquinome,1,,,, A cure was defined as the absence of a pathogen in the postcalving sample that had been present at drying off,,Culture,Quarter,No-stratification (totals),,,,,,,,
+31,1,5fb69508-47e8-44e4-bf0a-d72061073e56,ADDS\mafifi,3/23/2019 11:00:29 PM,ADDS\mafifi,11/25/2019 2:11:44 PM,f128ad75-a47f-4549-b50e-6307d14395e3,118,1,2_Cloxa+TS,1,,0,10," A cure was defined as the absence of
+a pathogen in the postcalving sample that had been
+present at drying off",,Culture,Quarter,No-stratification (totals),118,1,1,Quarter,,,2_Cloxa+TS,
+32,1,90b5f89c-c1e1-4f23-b1b5-ba4175163aaf,ADDS\mafifi,3/23/2019 11:09:39 PM,ADDS\mafifi,9/10/2019 3:09:07 PM,17e05517-7c38-41a1-b6da-20eb61944bd1,118,1,3_Cloxa,1,,0,10, A cure was defined as the absence of a pathogen in the postcalving sample that had been present at drying off,,Culture,Quarter,No-stratification (totals),,,,,,,,
+33,1,91576eac-216c-4b99-af3a-f90cdefb9ca4,ADDS\mafifi,3/24/2019 12:50:03 AM,ADDS\mafifi,3/24/2019 1:09:06 AM,bf8524c5-4a73-4acd-af5a-75d0872e61d1,113,1,2_Cloxa,1,,,," An infected quarter was regarded cured if bacterial pathogens could not be cultured from at least two of the three post-calving milk
+samples.",,Culture,Quarter,No-stratification (totals),,,,,,,,
+34,1,b0046891-2460-4d58-9896-6bccad826539,ADDS\mafifi,3/24/2019 12:50:32 AM,ADDS\mafifi,3/24/2019 12:54:15 AM,95e5b282-6e11-4d45-a4f0-976ca209f8fe,113,1,1_Cephalonium,1,,0,7," An infected quarter was regarded cured if bacterial pathogens could not be cultured from at least two of the three post-calving milk
+samples.",,Culture,Quarter,No-stratification (totals),,,,,,,,
+35,1,8ff6e0a6-432e-4bf5-8249-d4df60b12c8e,ADDS\mafifi,3/24/2019 1:00:10 AM,ADDS\mafifi,3/24/2019 1:10:28 AM,95e5b282-6e11-4d45-a4f0-976ca209f8fe,113,1,1_Cephalonium,1,,0,7," An infected quarter was regarded cured if bacterial pathogens could not be cultured from at least two of the three post-calving milk
+samples.",,Culture,Quarter,Others,,,,,,,,
+36,1,7e787ec4-0147-4fad-ab97-a86890bbf1b2,ADDS\mafifi,3/24/2019 1:05:28 AM,ADDS\mafifi,3/24/2019 1:08:38 AM,bf8524c5-4a73-4acd-af5a-75d0872e61d1,113,1,2_Cloxa,1,,,," An infected quarter was regarded cured if bacterial pathogens could not be cultured from at least two of the three post-calving milk
+samples.",,Culture,Quarter,Others,,,,,,,,
+37,1,f1b47678-0070-46a1-a300-bf7983aa05ef,ADDS\mafifi,3/24/2019 1:48:02 AM,ADDS\mafifi,3/24/2019 1:48:02 AM,f2de3531-347a-4a85-b6ec-c180a602ba1f,120,1,1_Cloxa,1,,7,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+38,1,099bc7d1-34a9-4d0e-88a6-60979dec74c4,ADDS\mafifi,3/24/2019 1:48:44 AM,ADDS\mafifi,3/24/2019 1:48:44 AM,da9cbb0e-460d-42bb-b11d-20542446a9bb,120,1,2_Novobiocin+Pen,1,,7,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+39,1,18be6e53-f7f3-46e6-8070-40afac220890,ADDS\mafifi,3/24/2019 1:49:23 AM,ADDS\mafifi,3/24/2019 1:54:34 AM,f3da854d-c91c-4e65-bd2d-e6f258f19509,120,1,3_PenicillinG,1,,7,10,if the samples at calving and seven to ten days after calving were negative on culture (free of any known mastitis pathogen,,Culture,Quarter,No-stratification (totals),,,,,,,,
+40,1,dd1cfc7d-bcb4-4c25-9bf2-92fbf2622f58,ADDS\mafifi,3/24/2019 1:54:00 AM,ADDS\mafifi,3/24/2019 1:54:00 AM,1ff8d6f4-d1fb-4c93-8417-a731a4788660,120,1,4_PenicillinG,1,,7,10,if the samples at calving and seven to ten days after calving were negative on culture (free of any known mastitis pathogen,,Culture,Quarter,No-stratification (totals),,,,,,,,
+41,1,3c3ef841-7dcd-44c6-8d68-556c4ea439cd,ADDS\mafifi,3/24/2019 2:58:47 AM,ADDS\mafifi,3/24/2019 2:58:47 AM,a365ab78-093b-4c7d-a615-b8279306464d,125,1,1_Cephapirin+TS,1,,7,14,"cow was considered cured if she had an IMI at
+dry-off and all productive quarters were negative
+at both samples post-calving.",,Culture,Cow,No-stratification (totals),,,,,,,,
+42,1,50109f6a-1f6c-4673-b3d8-046c6448522f,ADDS\mafifi,3/24/2019 2:59:44 AM,ADDS\mafifi,3/24/2019 3:13:50 AM,a365ab78-093b-4c7d-a615-b8279306464d,125,1,1_Cephapirin+TS,1,,7,14,"quarter was considered cured if it was positive
+at dry-off and negative in frst and second postcalving samples",,Culture,Quarter,No-stratification (totals),,,,,,,,
+43,1,95f9fe11-9174-4962-8f31-af50e41677e6,ADDS\mafifi,3/24/2019 3:14:50 AM,ADDS\mafifi,3/24/2019 3:16:56 AM,ec7940d2-e8b6-49b6-a096-515cbb0cd5d4,125,1,2_Cephapirin+TS,1,,7,14,,,Culture,Cow,No-stratification (totals),,,,,,,,
+44,1,0f23de2c-bc66-4ab1-b9b6-47d2d8e200ae,ADDS\mafifi,3/24/2019 3:16:40 AM,ADDS\mafifi,3/24/2019 3:16:53 AM,ec7940d2-e8b6-49b6-a096-515cbb0cd5d4,125,1,2_Cephapirin+TS,1,,7,14,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+45,1,559b9a6e-d751-4509-92d9-b3e7e33aa97a,ADDS\mafifi,3/24/2019 3:18:11 AM,ADDS\mafifi,3/24/2019 3:18:11 AM,970e33f6-e6b0-409d-9407-f96714fa8642,125,1,3_Tylosin+TS,1,,7,10,,,Culture,Cow,No-stratification (totals),,,,,,,,
+46,1,027cd8dc-7a9a-443e-b3ef-6fc7c4835e3a,ADDS\mafifi,3/24/2019 3:19:22 AM,ADDS\mafifi,3/24/2019 3:19:22 AM,970e33f6-e6b0-409d-9407-f96714fa8642,125,1,3_Tylosin+TS,1,,7,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+47,1,823111b4-d418-4ee6-af55-53af4bec8c74,ADDS\mafifi,3/24/2019 3:20:03 AM,ADDS\mafifi,3/24/2019 3:21:26 AM,d3ffe4a4-c0d6-4ad3-9907-27bd2df556f1,125,1,4_Tylosin,1,,7,10,,,Culture,Cow,No-stratification (totals),,,,,,,,
+48,1,fbb394b0-d22d-4129-8885-2beb0e56ec20,ADDS\mafifi,3/24/2019 3:21:15 AM,ADDS\mafifi,3/24/2019 3:21:43 AM,d3ffe4a4-c0d6-4ad3-9907-27bd2df556f1,125,1,4_Tylosin,1,,7,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+49,1,edd86d9d-a530-4cc3-919a-6427fa55c3a6,ADDS\mafifi,3/24/2019 9:37:10 PM,ADDS\mafifi,3/24/2019 9:37:11 PM,b063dbef-ba68-4cb3-92c6-28010814c602,126,1,1_Pen+strept,1,,1,5,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+50,1,635facce-10fb-4842-87dd-ca0a34aac7bf,ADDS\mafifi,3/24/2019 9:40:11 PM,ADDS\mafifi,3/24/2019 9:40:11 PM,0a7f8079-e973-4524-87bd-f4195ebf3c7c,126,1,2_Pen+strept,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+51,1,a4bd8ace-0dea-4dba-b183-345ed82d33a2,ADDS\mafifi,3/24/2019 9:43:46 PM,ADDS\mafifi,3/24/2019 9:43:46 PM,7ca42669-2e72-425f-b023-60487066a6ad,126,1,3_Pen+strept,1,,1,5,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+52,1,ae36edb1-a3e2-4a37-8747-e02a431a71a0,ADDS\mafifi,3/24/2019 9:48:08 PM,ADDS\mafifi,3/24/2019 9:48:09 PM,35f29b13-ae3f-47a7-9156-162cf0b4fc65,126,1,4_-ve control,1,,1,5,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+53,1,3295b162-8dee-41b6-b631-748f8a4d3996,ADDS\mafifi,3/24/2019 11:45:39 PM,ADDS\mafifi,3/24/2019 11:46:12 PM,9e4af03d-e676-4c1a-9e1b-3033fb5d299d,127,1,1_Cloxa+Ampicillin+TS,1,,3,86," SCC <150,000 cells/mL on the first herd test post-calving. ",180,SCC,Cow,No-stratification (totals),,,,,,,,
+54,1,88f83ff4-f5d8-4069-8a1e-5dea4cb2ea66,ADDS\mafifi,3/24/2019 11:49:38 PM,ADDS\mafifi,3/24/2019 11:49:46 PM,7eca831b-438c-47d8-b64b-c6676c250993,127,1,1_Cloxa+Ampicillin+TS,1,,3,86," SCC <150,000 cells/mL on the first herd test post-calving",150,SCC,Cow,No-stratification (totals),,,,,,,,
+55,1,4e8bc57e-ebd0-4ab1-affc-5dcae290a55a,ADDS\mafifi,3/25/2019 1:42:40 AM,ADDS\mafifi,3/25/2019 2:47:55 PM,e412e6aa-8375-4049-868d-250cb85512b7,129,1,1_Cloxa,1,,4,11," A cure during the dry period was defined as the absence of a pathogen in both the samples taken after calving that had been present in one
+or more of the three samples taken from that quarter before
+drying off",,Culture,Quarter,No-stratification (totals),,,,,,,,
+56,1,3a3e9578-de02-4c4b-8ede-ab5b3416d272,ADDS\mafifi,3/25/2019 1:46:26 AM,ADDS\mafifi,3/25/2019 1:50:33 AM,28ba2977-ba09-4efc-9ec2-167bf90c2a56,129,1,2_Cloxa+TS,1,,4,11," A cure during the
+dry period was defined as the absence of a pathogen in both
+the samples taken after calving that had been present in one
+or more of the three samples taken from that quarter before
+drying off",,Culture,Quarter,No-stratification (totals),,,,,,,,
+57,1,f3b661f3-d1e4-4a07-aed8-624edcea4381,ADDS\mafifi,3/25/2019 8:35:27 PM,ADDS\mafifi,3/25/2019 9:27:51 PM,56e97018-8791-43b8-84f3-f7e79f80996c,130,1,1_Cephapirin,1,,3,28," To qualify as a cure after dry cow
+therapy, a quarter confirmed to have a Staph. aureus
+IMI at dry-off would have to be culture-negative on
+duplicate samples taken on the day of calving and on
+d 3, 7, 12, and 28 of lactation",,Culture,Quarter,No-stratification (totals),,,,,,,,
+58,1,1c41586c-7e6b-4a6c-9750-527ae7152e2d,ADDS\mafifi,3/25/2019 8:36:08 PM,ADDS\mafifi,4/16/2019 1:27:12 PM,56e97018-8791-43b8-84f3-f7e79f80996c,130,1,1_Cephapirin,1,,3,28," To qualify as a cure after dry cow therapy, a quarter confirmed to have a Staph. aureus IMI at dry-off would have to be culture-negative on duplicate samples taken on the day of calving and on
+d 3, 7, 12, and 28 of lactation",,Culture,Cow,No-stratification (totals),,,,,,,,
+59,1,37aaf24e-2b6f-4e9c-8612-fe2b93440a84,ADDS\mafifi,3/25/2019 8:38:35 PM,ADDS\mafifi,3/25/2019 8:39:32 PM,56e97018-8791-43b8-84f3-f7e79f80996c,130,1,1_Cephapirin,1,,3,28," To qualify as a cure after dry cow
+therapy, a quarter confirmed to have a Staph. aureus
+IMI at dry-off would have to be culture-negative on
+duplicate samples taken on the day of calving and on
+d 3, 7, 12, and 28 of lactation",,Culture,Quarter,Parity,,,,,,,,
+60,1,0c9627ab-c4c0-4044-a721-b3aa001151e3,ADDS\mafifi,3/25/2019 8:43:30 PM,ADDS\mafifi,3/25/2019 9:28:54 PM,b14fed1d-2748-4ba6-94cc-f8ad30a3c251,130,1,2_Tilmicosin,1,,3,11,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+61,1,91aa21c0-7344-4d94-bea5-50c2a5db3068,ADDS\mafifi,3/25/2019 8:50:14 PM,ADDS\mafifi,3/25/2019 9:11:53 PM,b14fed1d-2748-4ba6-94cc-f8ad30a3c251,130,1,2_Tilmicosin,1,,3,11,,,Culture,Quarter,Parity,,,,,,,,
+62,1,c71ad1ea-29b8-406a-8ae7-8c2ad3065aa8,ADDS\mafifi,3/25/2019 9:12:25 PM,ADDS\mafifi,3/25/2019 9:13:02 PM,b14fed1d-2748-4ba6-94cc-f8ad30a3c251,130,1,2_Tilmicosin,1,,3,11,,,Culture,Cow,No-stratification (totals),,,,,,,,
+63,1,b00e4fa8-80c4-4189-bdc9-cd4d3ca41b1a,ADDS\mafifi,3/25/2019 9:13:31 PM,ADDS\mafifi,3/25/2019 9:30:18 PM,adf7e070-25c8-403d-afed-99704bcebefe,130,1,3_Tilmicosin,1,,3,28,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+64,1,8940211b-4ebd-47e3-ba59-fd95702079da,ADDS\mafifi,3/25/2019 9:14:40 PM,ADDS\mafifi,3/25/2019 9:16:55 PM,adf7e070-25c8-403d-afed-99704bcebefe,130,1,3_Tilmicosin,1,,3,28,,,Culture,Cow,No-stratification (totals),,,,,,,,
+65,1,e693a029-f94a-49ce-bf53-8e101a480e26,ADDS\mafifi,3/25/2019 9:16:39 PM,ADDS\mafifi,3/25/2019 9:16:57 PM,adf7e070-25c8-403d-afed-99704bcebefe,130,1,3_Tilmicosin,1,,3,28,,,Culture,Quarter,Parity,,,,,,,,
+66,1,e96857c6-987c-4d09-990a-0a91f2a31288,ADDS\mafifi,3/25/2019 11:05:06 PM,ADDS\mafifi,3/25/2019 11:23:48 PM,2bc1755f-38b5-46f0-8af8-7d2b02566917,134,1,1_Tilmicosin,1,,1,30," An IMI was considered cured when a previously identifed pathogen was not
+cultured in any of the samples collected on the subsequent 3 sampling days (within 24 hours after calving and 15 and 30 days after calving)
+",,Culture,Cow,No-stratification (totals),,,,,,,,
+67,1,4e2af6b8-736a-4d7a-a47a-962551f174f8,ADDS\mafifi,3/25/2019 11:24:54 PM,ADDS\mafifi,3/25/2019 11:24:54 PM,82cc4478-85e4-4896-9ffa-0520b1bb2489,134,1,2_Tilmicosin,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+68,1,ee9554c1-7476-4496-8057-db52a86d7a4e,ADDS\mafifi,3/25/2019 11:31:52 PM,ADDS\mafifi,3/25/2019 11:32:36 PM,5d58dbc5-8ad9-4345-b189-133d637ce0cf,134,1,3_Ceftiofur,1,,1,30," An IMI was considered cured when a previously identifed pathogen was not
+cultured in any of the samples collected on the subsequent 3 sampling days (within 24 hours after calving and 15 and 30 days after calving)
+",,Culture,Quarter,No-stratification (totals),,,,,,,,
+69,1,0cb0f588-6e71-4e06-9391-b82969e425f0,ADDS\mafifi,4/2/2019 12:14:00 PM,ADDS\mafifi,4/2/2019 12:14:44 PM,5d3108cf-2e58-4dac-b7c9-eb096ee26eb6,132,1,1_Pen+strept,1,,7,14," elimination of microorganisms was that the microorganism must not have been isolated from any
+samples taken after calving
+",,Culture,Quarter,No-stratification (totals),,,,,,,,
+70,1,c36c133e-257b-4370-8412-2fe7d2b07abe,ADDS\mafifi,4/2/2019 12:14:39 PM,ADDS\mafifi,4/2/2019 12:27:26 PM,5d3108cf-2e58-4dac-b7c9-eb096ee26eb6,132,1,1_Pen+strept,1,,7,14," elimination of microorganisms was that the microorganism must not have been isolated from any
+samples taken after calving
+",,Culture,Cow,No-stratification (totals),,,,,,,,
+71,1,7edf8f22-38c9-40b8-85af-ec762275f7ae,ADDS\mafifi,4/2/2019 12:25:29 PM,ADDS\mafifi,4/2/2019 12:25:29 PM,eeb7c944-a332-46bd-9a14-da7d06f396e5,132,1,2_Pen+strept,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+72,1,fac7c706-757c-4707-875d-65308ce8fb5c,ADDS\mafifi,4/2/2019 12:26:00 PM,ADDS\mafifi,4/2/2019 12:37:32 PM,eeb7c944-a332-46bd-9a14-da7d06f396e5,132,1,2_Pen+strept,1,,,,,,Culture,Cow,No-stratification (totals),,,,,,,,
+73,1,8ec36bdc-be34-47b8-a5ea-b83562a2eb35,ADDS\mafifi,4/4/2019 3:21:04 AM,ADDS\mafifi,4/11/2019 11:26:18 PM,d2dcce57-5761-41a7-baa3-0bbd905d7e81,264,1,1_Cloxa,1,,0,1,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+74,1,eb5e5610-674f-44b7-9484-dfe0aa0247c3,ADDS\mafifi,4/4/2019 3:30:16 AM,ADDS\mafifi,4/4/2019 3:30:16 AM,c5881fbf-6b72-4418-ad16-e79a80b5a367,264,1,2_Cloxa,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+75,1,2181a50f-0829-43ff-916a-0b16b893947c,ADDS\mafifi,4/10/2019 1:36:26 AM,ADDS\mafifi,4/10/2019 1:36:26 AM,370466cf-231f-4f93-b94e-ad509e8e2398,312,1,1_-ve control,1,,3,5,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+76,1,24a2d30e-919e-43d5-953d-707debb137b8,ADDS\mafifi,4/10/2019 1:37:04 AM,ADDS\mafifi,4/10/2019 1:37:04 AM,8dd5a2e2-7cec-4a5a-ae88-ef670b8b01bb,312,1,2_Ceftiofur,1,,3,5,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+77,1,b01f887d-3f0a-4f4f-8c55-8bf700aded25,ADDS\mafifi,4/10/2019 1:37:45 AM,ADDS\mafifi,4/10/2019 1:37:45 AM,b62d6e91-3b2c-4f23-ab6d-08495f846621,312,1,3_Ceftiofur,1,,3,5,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+78,1,941f7cd8-4a7e-44bc-ba84-d3c69a7515b9,ADDS\mafifi,4/10/2019 1:38:24 AM,ADDS\mafifi,4/10/2019 1:38:24 AM,12a0ab52-d0f7-4e6f-a689-42a92f5fddc5,312,1,4_Ceftiofur,1,,3,5,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+79,1,8452c657-ae09-4aa1-add9-4e2e6c6dacc0,ADDS\mafifi,4/10/2019 1:38:58 AM,ADDS\mafifi,4/10/2019 1:38:58 AM,5807ebbd-bd67-456a-9892-d5786a57f93f,312,1,5_Cephapirin,1,,3,5,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+80,1,918c553e-fc6d-4c4b-a38e-2020f11b6193,ADDS\mafifi,4/10/2019 5:31:21 PM,ADDS\mafifi,4/10/2019 5:35:00 PM,29557a33-4e72-482c-a081-1220e57c3b69,314,1,3_-ve control,1,7,,,"The absence of the same bacteria at sampling seven days
+following parturition were interpreted as a bacteriological
+cure",,Culture,Cow,No-stratification (totals),,,,,,,,
+81,1,6fbdcfc8-83f2-430a-a3d7-6f2195549f6e,ADDS\mafifi,4/10/2019 5:33:58 PM,ADDS\mafifi,4/10/2019 5:33:58 PM,29557a33-4e72-482c-a081-1220e57c3b69,314,1,3_-ve control,1,7,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+82,1,91a0eaec-8a93-4b78-a28e-891c353911b8,ADDS\mafifi,4/10/2019 6:02:40 PM,ADDS\mafifi,4/10/2019 6:03:32 PM,692fcf31-ed11-4032-bf21-04366e5a589f,314,1,1_Oxacillin,1,7,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+83,1,8f27dddd-8160-4810-82d9-e72812a8e7c6,ADDS\mafifi,4/10/2019 6:03:05 PM,ADDS\mafifi,4/10/2019 6:11:46 PM,692fcf31-ed11-4032-bf21-04366e5a589f,314,1,1_Oxacillin,1,7,,,,,Culture,Cow,No-stratification (totals),,,,,,,,
+84,1,8284c826-87cf-4cbb-9d0f-3c7ed6e4348b,ADDS\mafifi,4/10/2019 6:07:47 PM,ADDS\mafifi,4/10/2019 6:10:34 PM,e60b4564-7e1e-4303-b935-67540ff0d3d6,314,1,2_Enro,1,7,,,,,Culture,Cow,No-stratification (totals),,,,,,,,
+85,1,7da2f9ed-d836-44d3-842d-7ab67201b9aa,ADDS\mafifi,4/10/2019 6:08:54 PM,ADDS\mafifi,4/10/2019 6:10:32 PM,e60b4564-7e1e-4303-b935-67540ff0d3d6,314,1,2_Enro,1,7,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+86,1,4a40a4ca-6814-48d4-89df-39cc6aaeb105,ADDS\mafifi,4/11/2019 1:27:09 PM,ADDS\mafifi,4/11/2019 1:31:10 PM,a2e761cd-2aef-4518-a69c-4dbbc90b5d52,315,1,1_Tilmicosin,1,,3,30,,,Culture,Cow,No-stratification (totals),315,1,1,Cow,OR,linear,1_Tilmicosin,95%
+87,1,880d495d-bb12-4a0b-9c5c-0eed015b2524,ADDS\mafifi,4/11/2019 1:29:18 PM,ADDS\mafifi,4/11/2019 1:30:48 PM,a2e761cd-2aef-4518-a69c-4dbbc90b5d52,315,1,1_Tilmicosin,1,,3,30,,,Culture,Quarter,No-stratification (totals),315,1,1,Quarter,OR,linear,1_Tilmicosin,95%
+88,1,b2efb655-e45f-42be-827f-6c3cc7a0d4aa,ADDS\mafifi,4/11/2019 1:31:58 PM,ADDS\mafifi,4/11/2019 1:32:50 PM,f0ce1403-ddc1-4e0a-9d7b-8cf2fc89aa42,315,1,2_Cloxa,1,,3,30,,,Culture,Cow,No-stratification (totals),,,,,,,,
+89,1,3d3a85dd-b451-4794-b11f-049a937f1827,ADDS\mafifi,4/11/2019 1:32:09 PM,ADDS\mafifi,4/11/2019 1:32:43 PM,f0ce1403-ddc1-4e0a-9d7b-8cf2fc89aa42,315,1,2_Cloxa,1,,3,30,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+90,1,4e05ccd1-8ee1-4cd3-9f00-2adb97b758a5,ADDS\mafifi,4/11/2019 9:08:23 PM,ADDS\mafifi,4/11/2019 9:10:01 PM,6aa3d30a-1a63-41b2-ad29-0ac81ba29a6e,172,1,1_Ab mixture+TS,1,,3,18,A quarter was considered as cured if a pathogen isolated in D was absent in C1 and C2,,Culture,Quarter,No-stratification (totals),,,,,,,,
+91,1,ab1d3d9e-7bcc-49a8-a9c0-f882903de8e1,ADDS\mafifi,4/11/2019 9:13:47 PM,ADDS\mafifi,4/11/2019 9:19:52 PM,4ccdeaef-315f-47af-ad73-704b4c61ee5b,172,1,2_Ab mixture,1,,3,18, A quarter was considered as cured if a pathogen isolated in D was absent in C1 and C2,,Culture,Quarter,No-stratification (totals),172,1,1,Quarter,OR,linear,2_Ab mixture,95%
+92,1,47287716-ca68-4d44-a319-81abee53cec9,ADDS\mafifi,4/14/2019 3:27:22 PM,ADDS\mafifi,4/14/2019 3:27:42 PM,3f169be8-76e3-4d06-b6fd-5d078fa577bf,689,1,1_Ab mixture,1,,1,30,A cure is defined as the absence after calving of pathogenic germs isolated by drying up or by the isolation of a different germ.,,Culture,Quarter,No-stratification (totals),,,,,,,,
+93,1,3ac9996e-6960-4403-aac9-5ff9c91d3456,ADDS\mafifi,4/14/2019 3:28:15 PM,ADDS\mafifi,4/14/2019 3:28:15 PM,0e594d2e-993a-4ce3-b48b-7d6f629b5186,689,1,2_Ab mixture,1,,1,30,"A cure is defined as the absence after calving of pathogenic germs isolated by drying up or by the isolation of a different germ.
+",,Culture,Quarter,No-stratification (totals),,,,,,,,
+94,1,cbb81fe5-2e02-40a0-a6f0-ce1ec0dfa2a0,ADDS\mafifi,4/15/2019 11:46:37 PM,ADDS\mafifi,4/15/2019 11:46:37 PM,50c6bbc3-812a-4ae7-8a6f-ea8370c6f055,128,1,1_Enro,1,1,,,,,Culture,Cow,No-stratification (totals),,,,,,,,
+95,1,409c3fa7-ba0a-48d5-b762-57a21670f275,ADDS\mafifi,4/15/2019 11:48:11 PM,ADDS\mafifi,4/15/2019 11:48:12 PM,04e7f82f-9f41-4d2b-ab3e-5537d50cf412,128,1,2_Tylosin,1,1,,,,,Culture,Cow,No-stratification (totals),,,,,,,,
+96,1,fdf127f1-f8a1-4aa1-8b9b-2f5a7e04f1ec,ADDS\mafifi,4/15/2019 11:49:20 PM,ADDS\mafifi,4/15/2019 11:49:26 PM,3035c0d3-0e9f-435f-836e-5b6a4eff5d99,128,1,3_Naficillin+Pen+Strept,1,1,,,,,Culture,Cow,No-stratification (totals),,,,,,,,
+97,1,d20225fb-d93e-4be8-9f2a-fd341dc8ac19,ADDS\mafifi,4/16/2019 2:24:59 PM,ADDS\mafifi,4/21/2019 10:31:01 PM,98b99d82-0d7a-4651-a8e0-28fec3520cd8,176,1,1_Erythromycin,1,,7,14," both post-calving samples (7d, 14d) proved negative after treatment of infected quarter
+",,Culture,Quarter,No-stratification (totals),,,,,,,,
+98,1,1655b763-8c08-4b1e-92cf-2aa168cfa41e,ADDS\mafifi,4/16/2019 2:26:24 PM,ADDS\mafifi,6/27/2019 7:34:06 PM,f7069e6c-33a4-4273-ae5f-944f6df02e9c,176,1,2_Cloxa,1,,7,14,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+99,1,e0a57748-9d8f-4208-a183-fdd24362f91d,ADDS\mafifi,4/21/2019 10:58:26 PM,ADDS\mafifi,4/21/2019 11:03:12 PM,c3d151ae-13f4-4565-8d29-8da028fa2de1,182,1,1_Cloxa,1,,1,30," organisms at drying-ofT being free of the same
+organisms at both post-calving samplings.
+",,Culture,Quarter,No-stratification (totals),,,,,,,,
+100,1,8bb1f4c0-34b8-4dee-85cd-f4170850732d,ADDS\mafifi,4/21/2019 10:59:39 PM,ADDS\mafifi,4/21/2019 10:59:39 PM,21b3fb56-f402-4c20-9611-2134ab1e7f5a,182,1,2_Novobiocin+Pen,1,,1,30," organisms at drying-ofT being free of the same
+organisms at both post-calving samplings.
+
+",,Culture,Quarter,No-stratification (totals),,,,,,,,
+101,1,a7ba11b8-0f84-4208-b8f2-4dfddfb0a201,ADDS\mafifi,4/21/2019 11:00:51 PM,ADDS\mafifi,4/21/2019 11:00:51 PM,c921476f-065f-4411-8c3a-2f7c3691ee08,182,1,3_Spiramycin,1,,1,30," organisms at drying-ofT being free of the same
+organisms at both post-calving samplings.
+",,Culture,Quarter,No-stratification (totals),,,,,,,,
+102,1,1d74eb41-3d2f-4f8c-8a51-b10a0a737ee4,ADDS\mafifi,4/21/2019 11:03:36 PM,ADDS\mafifi,4/21/2019 11:03:36 PM,c3d151ae-13f4-4565-8d29-8da028fa2de1,182,1,1_Cloxa,1,,1,30," organisms at drying-ofT being free of the same
+organisms at both post-calving samplings.
+",,Culture,Cow,No-stratification (totals),,,,,,,,
+103,1,19e99345-2586-4f12-b828-bd91b10f516d,ADDS\mafifi,4/21/2019 11:04:12 PM,ADDS\mafifi,4/21/2019 11:04:13 PM,21b3fb56-f402-4c20-9611-2134ab1e7f5a,182,1,2_Novobiocin+Pen,1,,1,30," organisms at drying-ofT being free of the same
+organisms at both post-calving samplings.
+
+",,Culture,Cow,No-stratification (totals),,,,,,,,
+104,1,c5703265-d626-4534-af93-5445c22570b6,ADDS\mafifi,4/21/2019 11:04:49 PM,ADDS\mafifi,4/21/2019 11:04:49 PM,c921476f-065f-4411-8c3a-2f7c3691ee08,182,1,3_Spiramycin,1,,1,30," organisms at drying-ofT being free of the same
+organisms at both post-calving samplings.
+",,Culture,Cow,No-stratification (totals),,,,,,,,
+105,1,0aed30c5-747c-4630-b6f5-3294f65849f8,ADDS\mafifi,4/22/2019 6:29:02 PM,ADDS\mafifi,4/22/2019 7:12:43 PM,0154868a-d382-47d6-8c2a-b6aa14217e00,349,1,1_TS only,1,1,,," An organism
+present at drying off and not identified in the same
+quarter at calving
+",,Culture,Quarter,No-stratification (totals),349,1,1,Quarter,OR,linear,1_TS only,95%
+106,1,aabe3a01-af20-421d-abfc-fc075206866e,ADDS\mafifi,4/22/2019 6:41:32 PM,ADDS\mafifi,4/22/2019 6:47:27 PM,bd1b5526-246d-43e4-86f8-3a916147148f,349,1,2_Cephalonium,1,1,,," An organism
+present at drying off and not identified in the same
+quarter at calving
+",,Culture,Quarter,No-stratification (totals),,,,,,,,
+107,1,482834cc-e769-4648-a4b2-d619b09ba48f,ADDS\mafifi,4/24/2019 11:30:05 AM,ADDS\mafifi,4/24/2019 11:30:39 AM,b510b495-876e-462d-b38f-795888dee855,394,1,1_Tilmicosin,1,2,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+108,1,2b3c4e84-5079-4a05-aaf3-67987c0f4fdc,ADDS\mafifi,4/24/2019 11:34:05 AM,ADDS\mafifi,4/24/2019 11:34:05 AM,fd039d4e-27e8-4c51-9869-0d3a66976bb5,394,1,2_Cloxa,1,2,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+109,1,c592ef14-0693-4081-8913-a0ff1c893771,ADDS\mafifi,4/24/2019 12:58:42 PM,ADDS\mafifi,4/24/2019 1:01:31 PM,63fb55fa-5417-452a-b312-83892d05994f,421,1,1_Tilmicosin,1,,1,30, An infection was considered to have been cured during the dry period if all 3 milk samples from the same quarter that had been culture-positive before the dry period were bacteriologically negative for S. aureus in the 1st month of the next lactation.,,Culture,Quarter,No-stratification (totals),,,,,,,,
+110,1,c57fc297-f97e-4a11-99fc-12eaf80f9220,ADDS\mafifi,4/24/2019 1:04:08 PM,ADDS\mafifi,4/24/2019 1:04:19 PM,9060ca59-9bfc-4de1-95bc-8c57975ddef8,421,1,2_Cloxa,1,,1,30,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+111,1,2c62ae77-25b1-4f10-9b5b-37f0dad464df,ADDS\mafifi,4/24/2019 4:34:00 PM,ADDS\mafifi,4/24/2019 5:17:05 PM,a0112241-c333-4dfe-8135-1756949e507a,429,1,1_Naficillin+Pen+Strept,1,,1,6," A quarter was regarded as
+cured when the type of pathogen isolated
+at drying off was not recovered from the milk sample collected at calving.
+
+",,Culture,Quarter,No-stratification (totals),,,,,,,,
+112,1,d1587434-5316-4bff-8cb1-3f3d4e1e5a6e,ADDS\mafifi,4/24/2019 4:46:06 PM,ADDS\mafifi,4/24/2019 5:17:20 PM,74278653-72e6-413e-8ba1-d459252d4740,429,1,2_Cephalexin+Neomycin,1,,1,6," A quarter was regarded as
+cured when the type of pathogen isolated
+at drying off was not recovered from the milk sample collected at calving.
+
+",,Culture,Quarter,No-stratification (totals),,,,,,,,
+113,1,be932f1e-2f8e-4b1d-becf-54d6eeb52569,ADDS\mafifi,4/24/2019 5:06:05 PM,ADDS\mafifi,4/24/2019 5:18:04 PM,dbddb8ca-6bbd-4c71-82fa-50b1828540fd,429,1,3_Pen+strept,1,,1,6, A quarter was regarded as cured when the type of pathogen isolated at drying off was not recovered from the milk sample collected at calving.,,Culture,Quarter,No-stratification (totals),,,,,,,,
+114,1,e1f1b182-a6a5-4dc1-bf2b-260706774702,ADDS\mafifi,4/24/2019 5:09:35 PM,ADDS\mafifi,5/7/2019 3:56:39 AM,881f732b-a84f-477c-a1c7-6ff070b9c878,429,1,6_Cloxa+Ampicillin,1,,1,6, A quarter was regarded as cured when the type of pathogen isolated at drying off was not recovered from the milk sample collected at calving.,,Culture,Quarter,No-stratification (totals),,,,,,,,
+115,1,f74fa2f9-1f2e-46b0-85aa-dd50103d072d,ADDS\mafifi,4/24/2019 5:11:51 PM,ADDS\mafifi,4/24/2019 5:18:26 PM,d2e70a0e-b2fb-4c28-a7e6-eb0048ddc95a,429,1,5_Cephalonium,1,,1,6, A quarter was regarded as cured when the type of pathogen isolated at drying off was not recovered from the milk sample collected at calving.,,Culture,Quarter,No-stratification (totals),,,,,,,,
+116,1,c7029641-d5e3-45a4-9f78-90d3eedf82c7,ADDS\mafifi,4/24/2019 5:13:39 PM,ADDS\mafifi,4/24/2019 5:18:15 PM,4cfd1e8d-46ff-4bc6-b63a-961060eed252,429,1,4_Cloxa,1,,1,6, A quarter was regarded as cured when the type of pathogen isolated at drying off was not recovered from the milk sample collected at calving.,,Culture,Quarter,No-stratification (totals),,,,,,,,
+117,1,47c06b9a-6342-469b-92ea-376ea13833b4,ADDS\mafifi,4/30/2019 7:56:59 PM,ADDS\mafifi,5/6/2019 5:16:22 PM,e5cc8152-830b-433e-9d41-ab9ef8f1cf8c,472,1,1_PenicillinG,1,,3,10,"If duplicate postcalving samples were free of the original pathogen, a cure was recorded.",,Culture,Quarter,No-stratification (totals),,,,,,,,
+118,1,fcec5b50-077f-4664-ab10-77c003dffb6b,ADDS\mafifi,5/6/2019 3:49:17 PM,ADDS\mafifi,5/6/2019 3:51:44 PM,beda30ee-1761-4391-9af8-cff14a345be5,472,1,2_PenicillinG,1,,3,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+119,1,813ad76b-579f-4fff-8c5f-28137603d107,ADDS\mafifi,5/6/2019 3:53:05 PM,ADDS\mafifi,5/6/2019 3:53:05 PM,cf310096-4432-40d6-aa21-3e2b77d66509,472,1,3_PenicillinG,1,,3,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+120,1,da9e71db-c485-4696-a864-b5d7030fd64d,ADDS\mafifi,5/6/2019 3:56:15 PM,ADDS\mafifi,5/6/2019 5:14:34 PM,19f0ffce-110c-44e7-9764-15a4f9590257,472,1,4_Novobiocin,1,,3,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+121,1,f05c8121-6f92-4719-953f-78cab68ca7f6,ADDS\mafifi,5/6/2019 4:02:44 PM,ADDS\mafifi,5/6/2019 4:02:44 PM,0c53ae29-7256-4f97-a0fb-82dad1dd9a52,472,1,5_Novobiocin,1,,3,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+122,1,da060386-a845-4788-9aa6-1d889ae88455,ADDS\mafifi,5/6/2019 4:06:00 PM,ADDS\mafifi,5/6/2019 4:06:00 PM,83632348-57a6-4323-84eb-240ae39bf136,472,1,6_Novobiocin+Pen,1,,3,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+123,1,bc0b11e7-dc52-49d7-964d-04c254b6c48f,ADDS\mafifi,5/6/2019 5:03:02 PM,ADDS\mafifi,5/6/2019 5:03:02 PM,eac7c0ea-6214-4762-b48f-f9ff3b4a8469,472,1,7_Novobiocin+Pen,1,,3,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+124,1,51750ad0-7cff-43dc-aa24-d232981b9d85,ADDS\mafifi,5/6/2019 5:04:23 PM,ADDS\mafifi,5/6/2019 5:11:54 PM,5ea0d5e1-e811-42ff-98b3-ec0f38e015a4,472,1,8_Novobiocin+Pen,1,,3,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+125,1,55b0d708-e716-4f23-b5a6-bbefa465061b,ADDS\mafifi,5/6/2019 5:08:37 PM,ADDS\mafifi,5/6/2019 5:11:34 PM,3a742176-c118-4cf8-8306-f8578aad0222,472,1,9_-ve control,1,,3,10,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+126,1,8bcbba99-8695-436c-a64f-0c67a33a7fea,ADDS\mafifi,5/7/2019 3:49:47 AM,ADDS\mafifi,9/10/2019 4:03:41 PM,c18fb165-3235-4cc4-b49a-dd54c3e17ca9,420,1,_Framycetin+Penethamate hydroiodide+penicillin,1,,2,10,"As ""cured"" was defined the quarter which had no infection at both samplings after calving, or when different microorganisms, in comparison to drying-off, were found",,Culture,Quarter,No-stratification (totals),420,1,1,Quarter,OR,ln,_Framycetin+Penethamate hydroiodide+penicillin,95%
+127,1,7405373b-9f9e-41f2-9118-4202b23113ef,ADDS\mafifi,5/7/2019 4:34:48 PM,ADDS\mafifi,5/7/2019 4:36:14 PM,77ef3ed1-7ca7-4189-9780-7960ea561404,523,1,1_Pen+neomycin,1,,1,14," absence of causative organism in all subsequent milk
+samples.",,Culture,Cow,No-stratification (totals),,,,,,,,
+128,1,929e2d2e-4d8c-483b-b67e-1d8dd4d8f617,ADDS\mafifi,5/7/2019 4:37:31 PM,ADDS\mafifi,5/7/2019 4:41:24 PM,f8f03fcf-0fca-403c-9145-ddce56e45071,523,1,2_Cloxa,1,,1,14,"absence of causative organism in all subsequent milk
+samples.",,Culture,Cow,No-stratification (totals),,,,,,,,
+129,1,b51d0942-3989-453e-a322-8a00d5c32bb4,ADDS\mafifi,5/7/2019 4:38:30 PM,ADDS\mafifi,5/7/2019 4:41:37 PM,498b4c7d-1950-42f2-bf83-80a6e6df4b4f,523,1,3_-ve control,1,,1,14,"absence of causative organism in all subsequent milk
+samples.",,Culture,Cow,No-stratification (totals),,,,,,,,
+130,1,8e01d8bf-463e-4733-8178-22e3c469840a,ADDS\mafifi,5/8/2019 12:44:57 PM,ADDS\mafifi,5/8/2019 1:05:17 PM,9a0be078-c497-43b4-b125-f81e504e6196,529,1,1_Cloxa+TS,1,,4,11,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+131,1,a16a3d51-e330-4545-92fa-626247c1fe82,ADDS\mafifi,5/8/2019 1:06:24 PM,ADDS\mafifi,5/8/2019 1:06:24 PM,09cbd5db-fad1-43ba-bf75-8c02b119a49c,529,1,2_Cloxa,1,,4,11,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+132,1,52cd3683-6f69-4ffd-8faa-2b0d1b55c5ae,ADDS\mafifi,5/8/2019 4:05:17 PM,ADDS\mafifi,5/9/2019 12:25:20 AM,06556549-ce1d-4317-84fe-230bd3c4770c,564,1,1_-ve control,1,,1,30,,,Culture,Pathogen,No-stratification (totals),,,,,,,,
+133,1,43a9a9b1-8943-42a0-9d62-55ee4fcc1e77,ADDS\mafifi,5/9/2019 12:26:48 AM,ADDS\mafifi,5/9/2019 12:26:48 AM,530a3016-e8c1-4f47-8581-17467cb9a296,564,1,2_Novobiocin,1,,1,30,,,Culture,Pathogen,No-stratification (totals),,,,,,,,
+134,1,ad5a2f85-37f3-45cc-98c0-1dcf6239efb2,ADDS\mafifi,5/9/2019 12:28:00 AM,ADDS\mafifi,5/9/2019 12:28:00 AM,8d79819c-ccdc-447e-8621-bbc055cde774,564,1,3_Cephapirin,1,,1,30,,,Culture,Pathogen,No-stratification (totals),,,,,,,,
+135,1,29e9c418-6b2e-4a55-b036-6ab77e2ecfc4,ADDS\mafifi,5/9/2019 12:29:22 AM,ADDS\mafifi,5/9/2019 12:29:22 AM,55c36aa1-9fb4-4bca-97a0-f85d34da98dd,564,1,4_Pen+strept,1,,1,30,,,Culture,Pathogen,No-stratification (totals),,,,,,,,
+136,1,7367d885-d674-4722-ac7c-bd37da66d83e,ADDS\mafifi,5/9/2019 5:49:30 AM,ADDS\mafifi,5/9/2019 5:52:21 AM,2659bc69-5246-4849-b53d-9756c8ef60c1,334,1,2_Pen+strept,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+137,1,0fe55ccf-7a6c-4c27-a729-85161df35976,ADDS\mafifi,5/9/2019 5:51:07 AM,ADDS\mafifi,5/9/2019 5:51:07 AM,2c05b9d5-0a87-4d58-a06c-991df9cd5235,334,1,1_-ve control,1,,3,17,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+138,1,45aaebf0-d041-42b7-b78c-cc5d9ed52e02,ADDS\mafifi,5/12/2019 1:38:56 PM,ADDS\mafifi,5/12/2019 2:07:35 PM,eb65cdb7-259a-4f1c-a88a-bad37786ac37,581,1,1_Pen+strept+TS,1,,0,13,"A cure was defined as the failure to culture 1 or 2 of the pathogens originally  present at the dry-off sample (Godden et al., 2003) in both postcalving samples (S2 and S3)",,Culture,Quarter,No-stratification (totals),581,1,1,Quarter,OR,linear,1_Pen+strept+TS,95%
+139,1,0830f860-0b07-46c7-8d5b-50021eeab6c9,ADDS\mafifi,5/12/2019 1:39:36 PM,ADDS\mafifi,5/12/2019 2:03:47 PM,1a9205cb-b901-4663-a335-a50e0134928c,581,1,2_Ceftiofur+TS,1,,0,13,"A cure was defined as the failure to culture 1 or 2 of the pathogens originally  present at the dry-off sample (Godden et al., 2003) in both postcalving samples (S2 and S3)",,Culture,Quarter,No-stratification (totals),581,1,1,Quarter,OR,linear,2_Ceftiofur+TS,95%
+140,1,886f84f3-f52d-4589-a9b3-f29a2899a957,ADDS\mafifi,5/12/2019 1:40:57 PM,ADDS\mafifi,5/12/2019 2:06:37 PM,2b15171f-b7f8-4333-92f3-aaa9af108293,581,1,3_Cephapirin+TS,1,,0,13,"A cure was defined as the failure to culture 1 or 2 of the pathogens originally  present at the dry-off sample (Godden et al., 2003) in both postcalving samples (S2 and S3)",,Culture,Quarter,No-stratification (totals),,,,,,,,
+141,1,63312954-9c80-4b97-9f9f-ed48c60e4c3e,ADDS\mafifi,5/13/2019 6:25:57 AM,ADDS\mafifi,5/13/2019 6:26:03 AM,b9ae7960-072d-42a8-9484-d6e643bbfe27,196,2,1_Penicillin+ Penethamate+Neomycin,1,,1,7,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+142,1,6ea696fa-79c8-4c88-b142-17e92b9bacc3,ADDS\mafifi,5/13/2019 6:27:50 AM,ADDS\mafifi,5/13/2019 6:27:55 AM,668e6617-ad4d-4add-9b70-c62ff428fb6d,196,2,2_Penicillin+ Penethamate+Neomycin+TS,1,,1,7,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+143,1,47b9892f-b863-4762-9c92-0ba25cc94306,ADDS\mafifi,5/19/2019 7:46:14 PM,ADDS\mafifi,5/19/2019 7:50:24 PM,0a7e2648-ec54-4a71-aaf8-47a8b30b9c70,23,1,3_PenicillinG,1,6,,,Cure rate was defined as positive bacteriological samples before drying off and negative samples,,Culture,Quarter,No-stratification (totals),,,,,,,,
+144,1,ffe660c2-d53a-4c8b-9a3a-6dfdf3f43c85,ADDS\mafifi,5/19/2019 7:48:47 PM,ADDS\mafifi,7/10/2019 12:48:45 AM,a3bf7bb9-bfa7-4e61-ad05-254e1ddfb490,23,1,1_Pen+strept,1,6,,,Cure rate was defined as positive bacteriological samples before drying off and negative samples,,Culture,Quarter,No-stratification (totals),,,,,,,,
+145,1,31b0de95-935f-42f1-a6d1-b7d22725866f,ADDS\mafifi,5/19/2019 7:49:31 PM,ADDS\mafifi,5/19/2019 7:49:31 PM,fdeaaaa0-b9cc-411d-bbc1-2f06eee3cab8,23,1,2_Pen+strept,1,6,,,Cure rate was defined as positive bacteriological samples before drying off and negative samples,,Culture,Quarter,No-stratification (totals),,,,,,,,
+146,1,49322d05-7f4e-4b07-a365-cc7574e232a8,ADDS\mafifi,5/21/2019 12:25:44 PM,ADDS\mafifi,5/21/2019 12:25:47 PM,303607ab-d7be-4def-b1fb-d57a56e4ab19,508,1,1_Cloxa,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+147,1,f7f394b0-0f37-4926-b5a6-4d324646342c,ADDS\mafifi,5/21/2019 12:29:26 PM,ADDS\mafifi,5/21/2019 12:29:26 PM,b63b85e1-b92c-45e9-b80c-931434b813b1,508,1,2_Cloxa,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+148,1,41836b31-81c8-49e5-89be-e632ad63ee32,ADDS\mafifi,5/21/2019 12:31:56 PM,ADDS\mafifi,5/21/2019 12:32:01 PM,31327f42-44e3-47b3-b4c6-689b1bf26aa8,508,1,3_-ve control,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+149,1,e6d471bf-6211-4b74-8b7e-9b79fd35a7a6,ADDS\mafifi,6/10/2019 2:13:38 AM,ADDS\mafifi,6/10/2019 2:13:39 AM,09aeaa7d-67cd-4878-8be6-327b5c813586,667,1,1_Norfloxacin,1,,7,21,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+150,1,ef03a509-28fc-4ff9-8ccc-3027c36a54b2,ADDS\mafifi,6/10/2019 2:15:08 AM,ADDS\mafifi,6/10/2019 2:17:03 AM,3b878de6-e002-4385-936e-f22744242988,667,1,2_Oxytetracycline,1,,7,21,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+151,1,4cc3aef2-9fc0-46aa-b686-eb236960c27f,ADDS\mafifi,6/10/2019 2:17:25 AM,ADDS\mafifi,6/10/2019 2:17:25 AM,d9b35b67-fe88-48b7-ae2c-043fcaac0cd9,667,1,3_Cephapirin,1,,7,21,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+152,1,2ccb2190-09f8-4b5d-a15b-379b12fe058b,ADDS\mafifi,6/10/2019 2:19:19 AM,ADDS\mafifi,6/10/2019 2:19:19 AM,b7af7a57-6372-4aa0-b27c-947cef2ef884,667,1,4_-ve control,1,,7,21,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+153,1,ce510f3d-2114-4449-9348-8f71597e0ab7,ADDS\mafifi,6/10/2019 2:50:09 AM,ADDS\mafifi,6/10/2019 2:51:56 AM,fbe99703-4826-4903-84b3-7d8047da8fd9,608,1,1_Framycetin+Penethamate hydroiodide+penicillin,1,,3,10,,,Culture,Quarter,No-stratification (totals),608,1,1,Quarter,OR,linear,1_Framycetin+Penethamate hydroiodide+penicillin,
+154,1,542d5ffe-9b70-4324-9b9a-596258bd626b,ADDS\mafifi,6/10/2019 2:53:43 AM,ADDS\mafifi,6/10/2019 2:53:43 AM,565328be-9c8d-4dad-8226-ad7d3f7c881f,608,1,2_Cefquinome,1,,3,10,,,Culture,Quarter,No-stratification (totals),608,1,1,Quarter,OR,linear,2_Cefquinome,95%
+155,1,184bf93a-bbba-45d2-81f1-8ff4e5a1fb6e,ADDS\mafifi,6/10/2019 2:54:23 AM,ADDS\mafifi,6/10/2019 2:54:30 AM,52e58be9-6520-46bc-9992-f11a89f0022e,608,1,3_Cloxa,1,,3,10,,,Culture,Quarter,No-stratification (totals),608,1,1,Quarter,OR,linear,3_Cloxa,95%
+156,1,fbf2f4c2-d4eb-40a8-9bc9-8c26a92c0bd6,ADDS\mafifi,7/4/2019 3:14:37 PM,ADDS\mafifi,7/4/2019 3:14:37 PM,d7971834-b035-4762-b5cd-393ae93d47d3,346,1,1_Ceftiofur+TS,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+157,1,f68b5f73-4b45-4950-85a4-177e8728a1e2,ADDS\mafifi,7/4/2019 3:15:06 PM,ADDS\mafifi,7/4/2019 3:15:06 PM,f5183967-cd84-47f3-bcbc-d81877365506,346,1,2_Ceftiofur+TS,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+159,1,c78f6c87-ddaa-4ca6-aced-b9f2f1a98f03,ADDS\mafifi,6/11/2020 5:13:13 PM,ADDS\mafifi,6/11/2020 5:14:22 PM,8c018fba-b263-4749-8aa1-4171c77189a1,904,1,1_penicillin + fradiomycin,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+160,1,c747d5ef-622d-4b6b-af54-fba54c8bbf91,ADDS\mafifi,6/11/2020 5:15:28 PM,ADDS\mafifi,6/11/2020 5:15:30 PM,3f3589b6-442c-4ab1-a7fb-612f5e615a13,904,1,2_penicillin + fradiomycin+TS,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+161,1,e51374d9-d65e-4547-b5c4-c0f3b993542a,ADDS\mafifi,6/11/2020 6:10:02 PM,ADDS\mafifi,6/11/2020 6:12:06 PM,059891f7-5f07-47b8-ac88-56c3e2f9db19,904,2,1_penicillin + fradiomycin,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+162,1,527c3311-c2ea-452c-a641-b696e55a8755,ADDS\mafifi,6/11/2020 6:10:31 PM,ADDS\mafifi,6/11/2020 6:13:04 PM,809cc813-b47c-4236-9640-8785db7dd0f9,904,2,2_penicillin + fradiomycin+TS,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+163,1,b0ca19f6-90ce-453b-97d2-a0d4ca800d02,ADDS\mafifi,6/11/2020 6:58:39 PM,ADDS\mafifi,6/11/2020 6:58:39 PM,0e29aa5f-dc52-4ca6-a3a2-dfdbe77e29eb,904,3,1_penicillin + fradiomycin,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+164,1,2a994c51-ec67-4057-afaf-be09e3727952,ADDS\mafifi,6/11/2020 6:59:11 PM,ADDS\mafifi,6/11/2020 6:59:11 PM,d1069f5c-34cd-4287-a588-88eac01da560,904,3,2_penicillin + fradiomycin+TS,1,,,,,,Culture,Quarter,No-stratification (totals),,,,,,,,
+165,1,dcebef2c-b86f-4c76-9818-7c6ef1bfae20,ADDS\mafifi,6/11/2020 7:12:48 PM,ADDS\mafifi,6/13/2020 10:44:44 PM,073f64bb-b886-409a-b1da-f3b914ea77f3,627,1,2_Ab mixture+TS,1,,,,,,Culture,Cow,No-stratification (totals),627,1,1,Cow,OR,linear,2_Ab mixture+TS,

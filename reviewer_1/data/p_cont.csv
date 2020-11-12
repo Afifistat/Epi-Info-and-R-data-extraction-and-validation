@@ -1,0 +1,9 @@
+"UniqueKey","UniqueRowId","GlobalRecordId","RECSTATUS","FKEY","Pathogenspp","Comparisongroup","Estimate","SE","LCI","UCI","Pvalue1"
+3,fd09a625-43a7-4be8-8ad5-2b2eeba8814e,9e4ddd76-38ae-478c-a2e3-809a0a41f56b,1,20d95b4d-91b2-487f-b321-387d77eda9e8,Non-pathogen specific,Cloxa+Ampicillin,0.71,,0.42,1.18,0.18
+4,b7fd0047-ffd8-4f4c-9ae6-850995a1711c,9e4ddd76-38ae-478c-a2e3-809a0a41f56b,1,20d95b4d-91b2-487f-b321-387d77eda9e8,Non-pathogen specific,Cloxa+Ampicillin,0.724,,0.4,1.3,0.28
+5,b63ffc54-ce6e-42f0-9967-c5b5bfb50cf3,6892076d-4818-4165-af08-58345b65bec3,1,87be8f9c-615e-417d-99a9-a4f42d8ce328,Strept. Dysgalactiae,Pen+strept,5.83,,2.06,16.5,
+7,db1641a5-7d70-4c46-a493-82e518df6a12,e5aea29a-4451-4f53-bab2-0567c83a0086,1,a1c04589-b9ab-4402-bbb1-caafb7f6c3ca,Strept. Dysgalactiae,Pen+strept,3.7,,1.25,11,
+8,ba12b8bc-6962-4034-a903-3341f209c3ee,4c73e023-a11e-4836-8a7a-cf1114807ff4,1,f821295f-29ff-44d7-8d92-2e17204ba68a,Non-pathogen specific,Pen+neomycin,2,,1.7,2.3,
+9,0e62e7b1-747a-4369-baed-5af6ad50d900,77e243ea-f3fa-4f44-b8b6-fff1201798ee,1,6a9c76b5-b2cb-4e21-82c0-d27f06e179d6,Non-pathogen specific,Pen+strept,0.61,,0.22,1.64,0.32
+10,19bf8862-66b1-4bb6-a5fe-9b0816e615f2,54e076e2-0969-4ded-a46f-db2f076cbc84,1,9a0256a7-3656-46e3-b8a8-3cb4348d94c5,Non-pathogen specific,Ab mixture,-0.164755233,0.275312643,,,
+11,f98a9447-52f0-4597-8050-1f9eadff2c7a,54e076e2-0969-4ded-a46f-db2f076cbc84,1,9a0256a7-3656-46e3-b8a8-3cb4348d94c5,Non-pathogen specific,Ab mixture,0.066375069,0.383006836,,,

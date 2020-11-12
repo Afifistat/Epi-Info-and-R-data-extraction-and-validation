@@ -1,0 +1,110 @@
+"UniqueKey","RECSTATUS","GlobalRecordId","FirstSaveLogonName","FirstSaveTime","LastSaveLogonName","LastSaveTime","FKEY","StudyID","Author","Year_RW","TypeofPublication","country"
+1,1,d4c00790-da63-42e4-8f8d-c6403e740215,,,ADDS\mafifi,9/10/2019 12:25:34 PM,,23,A. C. Whist,2005,Journal article,Norway
+2,1,f211bfbb-14ff-4784-8737-0da9ef237b8b,,,ADDS\mafifi,10/11/2019 6:35:07 PM,,329,"W. H. Fang, C. H. Jiang and H. R. Liu",1993,Journal article,Canada
+3,1,5fd15b28-6de9-450b-b7b5-089f191d0a71,,,ADDS\mafifi,10/11/2019 6:35:08 PM,,182,"R. M. Loosmore, D. Howell, A. D. Adams, D. N. Barnett and T. F. Barr",1968,Journal article,UK
+4,1,8bc35b96-7c64-4861-9d07-398bf0a7e4b0,,,ADDS\mafifi,9/5/2019 2:26:43 PM,,334,R. J. Eberhart and J. M. Buckalew,1972,Journal article,US
+5,1,a087e0dc-83cb-49c6-9571-9c068c3786ff,,,ADDS\mafifi,9/10/2019 5:21:50 PM,,196,W. J. Meaney,1977,Journal article,Ireland
+6,1,97b2fb8e-51ff-4ca1-95b3-b9aba60d8ece,,,ADDS\mafifi,9/5/2019 2:26:45 PM,,25,B. Poutrel,1977,Journal article,France
+7,1,f2c2735d-9002-4d8c-b31b-bcde18055676,,,ADDS\mafifi,9/5/2019 2:26:46 PM,,345,"M. Cameron, G. P. Keefe, J. P. Roy, H. Stryhn, I. R. Dohoo and S. L. McKenna",2015,Journal article,
+8,1,ca199262-82c6-4a12-9cf8-3e5f5fe7d669,,,ADDS\mafifi,9/5/2019 2:26:46 PM,,43,"O. Osteras, L. Sandvik, J. Aursjo, G. G. Gjul and A. Jorstad",1991,Journal article,
+9,1,d2452321-fd88-43eb-9a1c-ad1e38a5ccd1,,,ADDS\mafifi,9/5/2019 2:26:47 PM,,197,"G. T. Church, L. K. Fox, C. T. Gaskins, D. D. Hancock and J. M. Gay",2008,Journal article,
+10,1,0b8e67bd-6f59-4329-8a77-16e3f4cc9731,,,ADDS\mafifi,9/5/2019 2:26:48 PM,,59,"S. Janosi, A. Huszenicza, T. Horvath, F. Gemes, M. Kulcsar and G. Huszenicza",2001,Journal article,Hungary
+11,1,9f50c971-1f6d-4fc0-b449-6c190d2accd2,,,ADDS\mafifi,9/5/2019 2:26:49 PM,,346,"M. Cameron, S. L. McKenna, K. A. MacDonald, I. R. Dohoo, J. P. Roy and G. P. Keefe",2014,Journal article,Canada
+12,1,6a8c6b63-d345-45bb-827f-28f6b01c2f8e,,,ADDS\mafifi,9/5/2019 2:26:49 PM,,200,E. A. Berry and J. E. Hillerton,2007,Journal article,UK
+13,1,f13dad19-3713-49a1-9b56-eb6b8ada2083,,,ADDS\mafifi,9/5/2019 2:26:50 PM,,101,"J. P. Liang, B. C. Hao, X. H. Wang, Z. T. Guo, W. Z. Guo, R. F. Shang, L. Tao, Y. Liu, Z. Z. Li, L. Y. Hua and S. Y. Wang",2011,Journal article,China
+14,1,c16ccf41-ed1e-4777-ae98-45647461063e,,,ADDS\mafifi,9/10/2019 12:26:17 PM,,212,"K. Mutze, W. Wolter, K. Failing, B. Kloppert, H. Bernhardt and M. Zschock",2012,Journal article,Germany
+15,1,01c6532a-105e-48ec-a4c6-b38bf939642b,,,ADDS\mafifi,11/27/2019 7:20:43 PM,,349,"J. N. Huxley, M. J. Green, L. E. Green and A. J. Bradley",2002,Journal article,UK
+16,1,e29a9a31-69b2-4352-b9ba-4e0b686e6bf0,,,ADDS\mafifi,10/13/2019 1:43:40 PM,,523,"J. W. Pankey, R. M. Barker, A. Twomey and G. Duirs",1982,Journal article,New Zealand
+17,1,c727a66c-03ff-4757-8b24-19c1f6471f2f,,,ADDS\mafifi,9/5/2019 2:26:54 PM,,213,"A. L. Bhutto, R. D. Murray and Z. Woldehiwet",2011,Journal article,UK
+18,1,a5a3395c-e6fe-4c93-8ce3-75f7a0ada9be,,,ADDS\mafifi,7/13/2019 3:38:50 AM,,351,"C. G. M. Scherpenzeel, I. E. M. den Uijl, G. van Schaik, R. Riekerink and T. Lam",2014,Journal article,Netherlands
+19,1,3968f987-b9b4-4905-9804-a131d7597691,,,,,,214,"S. Tiwari, T. K. Mohanty, T. K. Patbandha, A. Kumaresan, M. Bhakat, S. Gautam, A. Kumari, N. Kumar and R. K. Baithalu",2018,Journal article,
+20,1,0d3716e6-1b77-41e8-bd0f-e809e124d5a6,,,ADDS\mafifi,4/24/2019 2:55:03 AM,,353,"P. J. Pinedo, C. Fleming and C. A. Risco",2012,Journal article,US
+21,1,a6d80c42-7947-4435-b0f2-e5802996d862,,,ADDS\mafifi,3/21/2019 5:29:00 PM,,110,"G. Ziv, M. Storper and A. Saran",1981,Journal article,Israel
+22,1,11d4b52a-329d-4223-b3b1-532636707b18,,,ADDS\mafifi,6/26/2019 5:27:10 PM,,216,"O. Osteras, J. Aursjo, G. G. Gjul and A. Jorstad",1994,Journal article,Norway
+23,1,e27c3b1e-2356-4ea1-b0b4-f58fd89889af,,,ADDS\mafifi,6/26/2019 5:07:48 PM,,361,O. Osteras and V. L. Edge,2000,Journal article,
+24,1,c9b9f214-b140-4cb0-860c-36bd31648f8a,,,ADDS\mafifi,3/28/2019 12:53:19 PM,,111,"T. J. Parkinson, J. J. Vermunt and M. Merrall",2000,Journal article,New Zealand
+25,1,bcb9c4f0-f117-490c-aab7-39bf69fa7df0,,,ADDS\mafifi,4/24/2019 10:50:06 AM,,394,M. Mohammadsadegh,2018,Journal article,Iran
+26,1,dc1965ff-1c62-46e5-908d-0deb2dc9c80a,,,ADDS\mafifi,3/22/2019 8:07:48 PM,,217,"R. P. Natzke, R. W. Everett and D. R. Bray",1975,Journal article,
+27,1,d54ae701-83bf-4e64-bc71-98a3c75d5468,,,ADDS\mafifi,3/28/2019 1:57:26 PM,,112,"M. A. Bryan, C. Heuer and F. R. Emslie",2011,Journal article,
+28,1,f647a380-340f-4f71-b971-ec19cc525f7b,,,ADDS\mafifi,4/8/2019 3:44:53 PM,,408,G. E. Ward and L. H. Schultz,1974,Journal article,USA
+29,1,c07c255d-f9dc-4292-877f-4db60cee6f61,,,ADDS\mafifi,6/14/2019 5:40:21 PM,,113,"R. W. Shephard, S. Burman and P. Marcun",2004,Journal article,Australia
+30,1,583832e4-5d30-4683-8f4b-673fd24a0019,,,ADDS\mafifi,5/12/2019 4:50:31 PM,,225,"M. W. Woolford, J. H. Williamson, T. M. Day, S. J. Lacy-Hulbert and H. V. Henderson",2001,Journal article,New Zealand
+31,1,729eb2f2-103c-4cff-8e50-2946e17c2ba6,,,ADDS\mafifi,9/10/2019 3:55:27 PM,,420,"A. Zecconi, P. Moroni, A. Casula, R. Piccinini and G. Ruffo",1995,Journal article,Italy
+32,1,14d39b68-2116-4680-8fde-1b9ab15f5862,,,ADDS\mafifi,3/28/2019 2:11:59 PM,,115,"N. Y. Shpigel, P. H. Kass and A. Saran",2006,Journal article,Israel
+33,1,adad41e3-f90c-4730-8b46-e220e0878399,,,ADDS\mafifi,1/22/2020 5:05:29 PM,,254,"S. Godden, P. Rapnicki, S. Stewart, J. Fetrow, A. Johnson, R. Bey and R. Farnsworth",2003,Journal article,US
+34,1,3d762a7f-b27c-4a5f-9e92-30d16bc1b2f7,,,ADDS\mafifi,9/10/2019 2:24:25 PM,,117,"T. J. Davidson, I. R. Dohoo and A. W. Donald",1994,Journal article,Canada
+35,1,399c7e05-9633-4389-9733-befdeffac17d,,,ADDS\mafifi,4/9/2019 9:27:15 PM,,255,M. Cengiz and A. Bastan,2015,Journal article,Turkey
+36,1,37ee01b6-2307-4e5e-aea7-f063b92b85e3,,,ADDS\mafifi,4/24/2019 12:36:08 PM,,421,"R. T. Dingwell, K. E. Leslie, P. Sabour, D. Lepp and J. Pacan",2006,Journal article,Canada
+37,1,ab3ca22e-e1d9-47f9-bbbd-c1585fb25722,,,ADDS\mafifi,4/11/2019 11:07:15 PM,,259,W. D. Schultze,1983,Journal article,
+38,1,40e92764-6852-4452-bd92-d7d2f6f93e77,,,ADDS\mafifi,11/25/2019 2:13:38 PM,,424,"A. Robert, N. Bareille, P. Roussel, B. Poutrel, V. Heuchel and H. Seegers",2006,Journal article,France
+39,1,a511a477-5e18-4803-a9c1-68f5adc7aa2e,,,ADDS\mafifi,11/25/2019 2:13:44 PM,,118,"A. J. Bradley, J. E. Breen, B. Payne and M. J. Green",2011,Journal article,UK
+40,1,d7695a5b-27ca-4019-b1b2-eaa44f830ce0,,,ADDS\mafifi,11/25/2019 2:14:32 PM,,262,"H. M. Golder, A. Hodge and I. J. Lean",2016,Journal article,
+41,1,af4367f9-a73b-44a8-bc81-bfc3b865b32d,,,ADDS\mafifi,5/12/2019 7:21:03 PM,,429,"I. M. Petzer, D. C. Lourens, T. J. van der Schans, J. C. Watermeyer, R. van Reenen, G. H. Rautenbach and P. Thompson",2009,Journal article,South Africa
+42,1,b98e4d75-f606-4f09-a04a-2020dce2a2e5,,,ADDS\mafifi,5/12/2019 7:21:04 PM,,119,"A. J. Bates, G. Chambers and R. A. Laven",2016,Journal article,
+43,1,f68c588e-e22c-43c2-935b-c60897dc36d3,,,ADDS\mafifi,5/12/2019 7:21:05 PM,,264,"J. W. Browning, G. A. Mein, M. Barton, T. J. Nicholls and P. Brightling",1990,Journal article,Australia
+44,1,2fda3413-f2a0-4457-b93b-03ebd115dddd,,,ADDS\mafifi,5/12/2019 7:21:10 PM,,437,A. J. Bradley and M. J. Green,2001,Journal article,
+45,1,ce4ae4d4-a50b-452e-bfc2-e5fd805cdcd4,,,ADDS\mafifi,6/14/2019 5:42:36 PM,,120,R. C. Daniel and I. J. Steffert,1969,Journal article,New Zealand
+46,1,0fa5beb0-2d90-4ec7-8872-67d639d81771,,,ADDS\mafifi,5/12/2019 7:21:13 PM,,268,"Z. Hassan, R. C. W. Daniel, D. O'Boyle and A. J. Frost",1999,Journal article,Australia
+47,1,152877f1-b130-4275-b8a9-7a8b0bfd5b4f,,,ADDS\mafifi,5/12/2019 7:21:14 PM,,462,S. McDougall,2003,Journal article,
+48,1,806e19d1-47c5-47b8-bd85-2945e274a979,,,ADDS\mafifi,10/29/2019 8:27:53 PM,,125,"G. A. Contreras, W. M. Guterbock, J. Munoz and P. M. Sears",2013,Journal article,US
+51,1,1f1adf57-d9cf-4dbe-bee8-c0df393d85aa,,,ADDS\mafifi,6/14/2019 5:48:49 PM,,126,J. H. d. Preez and A. S. Greeff,1985,Journal article,South Africa
+52,1,42856fae-038c-433b-8019-00fd7752497e,,,ADDS\mafifi,6/11/2020 7:01:51 PM,,298,"L. R. Molina, H. N. Costa, J. M. Leao, V. M. R. Malacco, E. J. Facury, A. U. Carvalho and C. F. A. Lage",2017,Journal article,Brazil
+53,1,d1f9d8e0-bfbd-433b-80b5-8aa9c04af55b,,,ADDS\mafifi,5/12/2019 7:18:56 PM,,480,"T. C. Robinson, E. R. Jackson and A. Marr",1988,Journal article,
+54,1,07bf3003-19fa-4fa3-ae00-903abedd8b5d,,,ADDS\mafifi,5/12/2019 7:18:55 PM,,127,L. K. Whitfield and R. A. Laven,2018,Journal article,New Zealand
+55,1,c4b985c2-48a2-4ab2-9d31-76aec5ca9794,,,ADDS\mafifi,10/30/2019 10:58:20 PM,,305,"J. S. Hogan, K. L. Smith, D. A. Todhunter and P. S. Schoenberger",1994,Journal article,US
+56,1,7f8a9a36-f0a1-4c91-92eb-a1e2bf0ff845,,,ADDS\mafifi,5/12/2019 7:18:54 PM,,501,"P. J. Rajala-Schultz, A. H. Torres and F. J. DeGraves",2011,Journal article,
+57,1,0335d917-c448-41e1-9358-560a5d264454,,,ADDS\mafifi,5/12/2019 7:18:53 PM,,128,"M. Bolourchi, P. Hovareshti and A. H. Tabatabayi",1995,Journal article,Iran
+58,1,0112a712-6dab-4e31-9812-6531086ed00b,,,ADDS\mafifi,5/12/2019 7:18:52 PM,,312,"J. W. Hallberg, M. Wachowski, W. M. Moseley, K. J. Dame, J. Meyer and S. L. Wood",2006,Journal article,US
+59,1,d76c022c-65c9-4e7c-86a5-b902fca6b7c7,,,ADDS\mafifi,5/21/2019 11:51:37 AM,,508,K. A. Cummins and T. A. McCaskey,1987,Journal article,US
+60,1,8d59e63a-345c-471e-8351-c290b8a19f96,,,ADDS\mafifi,11/26/2019 6:03:11 PM,,129,"H. T. Newton, M. J. Green, H. Benchaoui, V. Cracknell, T. Rowan and A. J. Bradley",2008,Journal article,UK
+61,1,34ab5983-5028-4e8d-a48b-ad22d7ddbc8d,,,ADDS\mafifi,5/12/2019 7:18:50 PM,,313,"R. T. Dingwell, T. F. Duffield, K. E. Leslie, G. P. Keefe, L. DesCoteaux, D. F. Kelton, K. D. Lissemore, Y. H. Schukken, P. Dick and R. Bagg",2002,Journal article,Canada
+62,1,e2ca0840-d9bb-49e3-8e55-4683e6dabfa5,,,ADDS\mafifi,6/14/2019 6:13:28 PM,,130,"S. C. Nickerson, W. E. Owens, L. K. Fox, C. C. Scheifinger, T. R. Shryock and T. E. Spike",1999,Journal article,US
+63,1,3df95a26-4e56-47e7-9b2a-9881530ed09e,,,ADDS\mafifi,5/12/2019 7:18:49 PM,,314,B. Musal and İ. H. İzgür,2006,Journal article,Turkey
+64,1,0c69915c-3aa4-4740-b6a4-65d5b2495bbc,,,ADDS\mafifi,5/12/2019 7:18:48 PM,,520,W. D. Schultze and H. D. Mercer,1976,Journal article,
+65,1,49b76843-adac-4dc3-8daf-5946d200c6d9,,,ADDS\mafifi,5/12/2019 7:18:48 PM,,315,"R. T. Dingwell, K. E. Leslie, T. F. Duffield, Y. H. Schukken, L. DesCoteaux, G. P. Keefe, D. F. Kelton, K. D. Lissemore, W. Shewfelt, P. Dick and R. Bagg",2003,Journal article,Canada
+66,1,9e1de526-16c1-4f13-9d7d-2704733ff947,,,ADDS\mafifi,5/12/2019 7:18:47 PM,,132,"R. B. Rindsig, R. G. Rodewald, A. R. Smith and S. L. Spahr",1978,Journal article,US
+67,1,47bf89a2-5f16-41e3-a8ee-fe6d98d469f1,,,ADDS\mafifi,10/13/2019 1:45:13 PM,,523,"J. W. Pankey, R. M. Barker, A. Twomey and G. Duirs",1982,Journal article,New Zealand
+68,1,886a2a6f-450a-4548-8fea-416d402e3a12,,,ADDS\mafifi,5/12/2019 7:18:45 PM,,525,G. E. Ward,1973,Journal article,
+69,1,b8a3202b-4548-4757-a26f-7e394bfbddeb,,,ADDS\mafifi,5/12/2019 7:18:45 PM,,134,"J. Mendoza, I. Martinez-Cortes, R. Lopez-Ordaz, L. Gutierrez and H. Sumano",2016,Journal article,Mexico
+70,1,abd21287-f6ff-4a4d-97a1-a24b1768ea5c,,,ADDS\mafifi,11/27/2019 12:12:21 AM,,319,"C. J. Sanford, G. P. Keefe, I. R. Dohoo, K. E. Leslie, R. T. Dingwell, L. DesCoteaux and H. W. Barkema",2006,Journal article,Canada
+71,1,e9f57934-57fb-426d-ae75-93486e23f91e,,,ADDS\mafifi,5/12/2019 7:18:42 PM,,529,"A. Bradley, H. Newton, H. Benchaoui, N. Tilt, V. Cracknell and T. Rowan",2005,Journal article,UK
+72,1,b74920d2-b18f-47f6-ae5f-c213cab20ad7,,,ADDS\mafifi,5/12/2019 7:18:42 PM,,165,"O. Osteras, V. L. Edge and S. W. Martin",1999,Journal article,
+73,1,8bca567a-569a-4247-9e56-6a7ee498bd06,,,ADDS\mafifi,5/12/2019 7:18:42 PM,,325,"D. A. Funk, A. E. Freeman and P. J. Berger",1982,Journal article,
+74,1,d33399c2-422d-4cce-adf2-da7361d2e273,,,ADDS\mafifi,5/12/2019 7:18:41 PM,,541,G. H. Swenson,1979,Journal article,US
+75,1,ed9e1309-d87a-4f7a-a012-904bc3c7453c,,,ADDS\mafifi,5/12/2019 7:18:41 PM,,328,"K. L. Smith, D. A. Todhunter and P. S. Schoenberger",1985,Journal article,US
+76,1,d0878604-ea83-4b74-bc66-10a8fee4ae51,,,ADDS\mafifi,5/12/2019 7:18:41 PM,,172,"M. T. Seeth, N. Wente, J. H. Paduch, D. Klocke, E. M. D. Vries, M. Hoedemaker and V. Kromker",2017,Journal article,Germany
+77,1,4619797d-cec6-4a9b-9f1a-fc746cacda51,,,ADDS\mafifi,5/12/2019 7:18:40 PM,,542,"O. Osteras, S. W. Martin and V. L. Edge",1999,Journal article,
+78,1,0ade86c1-39f8-4b09-9589-d1d6aad57f5b,,,ADDS\mafifi,6/27/2019 7:32:53 PM,,176,"F. G. Clegg, G. J. Halliday and H. Hardie",1975,Journal article,UK
+79,1,fa24183d-3d50-4b94-99bd-c2dbf0201c80,,,ADDS\mafifi,5/12/2019 7:18:40 PM,,562,H. Tarabla and V. Canavesio,2003,Journal article,Argentina
+80,1,95804f1b-c5ae-4f4e-afb0-2423a4523e0b,,,ADDS\mafifi,5/12/2019 7:18:39 PM,,564,"R. J. Harmon, W. L. Crist, R. W. Hemken and B. E. Langlois",1986,Journal article,US
+81,1,c6144837-cdc3-41a7-a73f-f8bf978c89bf,,,ADDS\mafifi,5/12/2019 7:18:39 PM,,570,"J. H. Williamson, M. W. Woolford and A. M. Day",1995,Journal article,New Zealand
+82,1,389d10d1-b7f8-4977-9a19-3531e2664097,,,ADDS\mafifi,11/27/2019 7:28:05 PM,,571,"M. W. Woolford, J. H. Williamson, A. M. Day and P. J. A. Copeman",1998,Journal article,New Zealand
+83,1,865217e9-c24b-4fcb-b9cc-3819d6186295,,,ADDS\mafifi,5/12/2019 7:18:38 PM,,572,"E. A. Berry, W. T. Johnston and J. E. Hillerton",2003,Journal article,
+84,1,41750a93-0cb6-4c8d-98c2-11c942016827,,,ADDS\mafifi,6/21/2019 5:03:38 AM,,578,S. McDougall,2010,Journal article,New Zealand
+85,1,400816d9-f2e4-4621-8fa3-637d13f1f1e1,,,ADDS\mafifi,5/12/2019 7:18:38 PM,,579,"Y. H. Schukken, J. Vanvliet, D. Vandegeer and F. J. Grommers",1993,Journal article,Netherlands
+86,1,6230f82b-e533-4350-a1c7-5a339859c204,,,ADDS\mafifi,5/12/2019 7:18:37 PM,,581,"A. G. Arruda, S. Godden, P. Rapnicki, P. Gorden, L. Timms, S. S. Aly, T. W. Lehenbauer and J. Champagne",2013,Journal article,US
+87,1,3250d7cd-ba83-4d11-b797-c8400a20f192,,,ADDS\mafifi,5/12/2019 7:18:37 PM,,582,"A. G. Arruda, S. Godden, P. Rapnicki, P. Gorden, L. Timms, S. S. Aly, T. W. Lehenbauer and J. Champagne",2013,Journal article,
+88,1,80d05140-fc8b-41c2-b306-8f251a1f3a40,,,ADDS\mafifi,5/21/2019 12:41:40 PM,,583,"P. A. Ospina, N. Rota, C. Locatelli, L. Colombo, C. Pollera, G. Giacinti, V. Bronzo, A. Casula, A. Arpinelli, V. Brossette, M. Facchi, A. Patelli, A. Ruggeri, A. Barberio, G. Potenza, D. V. Nydam and P. Moroni",2016,Journal article,Italy
+89,1,fda51b06-bdd4-421e-80f0-f7ea82ff33e8,,,ADDS\mafifi,9/10/2019 5:16:56 PM,,584,"A. P. Johnson, S. M. Godden, E. Royster, S. Zuidhof, B. Miller and J. Sorg",2016,Journal article,US
+90,1,45e1fa71-ecf0-4506-b0c4-51ab3a329ebe,,,ADDS\mafifi,5/12/2019 7:18:34 PM,,587,"R. J. Erskine, P. C. Bartlett, S. R. Tavernier, L. H. Fowler, R. D. Walker, J. H. Seguin and D. Shuster",1998,Journal article,
+91,1,61869937-dae0-4605-b378-35c56c86c66f,,,ADDS\mafifi,5/12/2019 7:18:34 PM,,603,"T. Wittek, A. Tichy, B. Grassauer and C. Egger-Danner",2018,Journal article,
+92,1,b3dbc70e-e14e-41fa-ac5a-a675faf85f7e,,,ADDS\mafifi,6/10/2019 2:59:48 AM,,608,"Y. Gundelach, E. Kalscheuer, H. Hamann and M. Hoedemaker",2011,Journal article,Germany
+93,1,21549fbc-e8b1-4ba0-a172-71a9b006ce77,,,ADDS\mafifi,5/12/2019 7:18:33 PM,,613,"O. Osteras, A. C. Whist and L. Solverod",2008,Journal article,Norway
+94,1,f214b5e2-f9ee-4eed-9b57-fa753df04978,,,ADDS\mafifi,6/13/2020 10:05:01 PM,,627,"K. Kiesner, N. Wente, O. Volling and V. Kromker",2016,Journal article,Germany
+95,1,8f131f3d-5249-4e38-a1c3-e02899083259,,,ADDS\mafifi,5/12/2019 7:18:33 PM,,642,S. Dufour and I. R. Dohoo,2013,Journal article,
+96,1,75cb1c37-735f-4d56-bc1b-a6726e624761,,,ADDS\mafifi,5/12/2019 7:18:32 PM,,644,"T. Halasa, M. Nielen, T. van Werven and H. Hogeveen",2010,Journal article,
+97,1,583a7e9d-eb50-4def-a974-75ec2d182ee3,,,ADDS\mafifi,5/12/2019 7:18:32 PM,,653,"J. W. Browning, G. A. Mein, P. Brightling, T. J. Nicholls and M. Barton",1994,Journal article,
+98,1,b6f3075f-7ae6-4801-a044-0ea3a3ee1b35,,,ADDS\mafifi,5/12/2019 7:18:31 PM,,655,"D. J. Barrett, T. Clegg, A. M. Healy and M. L. Doherty",2006,Journal article,
+99,1,0627fc99-dc00-42e9-9c24-813b47a9bc06,,,ADDS\mafifi,6/10/2019 2:01:55 AM,,667,"S. Soback, G. Ziv, M. Winkler and A. Saran",1990,Journal article,Israel
+100,1,07299208-f745-4c27-beeb-cbcfb80d8b11,,,ADDS\mafifi,5/12/2019 7:20:48 PM,,689,M. Roguinsky and F. Serieys,1977,Journal article,France
+101,1,5d64aee7-b952-4a01-b434-5f49f243b725,,,ADDS\mafifi,11/5/2019 1:59:12 PM,,709,"A. J. Bradley, J. E. Breen, B. Payne, P. Williams and M. J. Green",2010,Journal article,UK
+102,1,21711959-469f-4dab-9c28-29d8f465218b,,,ADDS\mafifi,5/12/2019 7:20:46 PM,,712,"D. J. Runciman, J. Malmo and M. Deighton",2010,Journal article,
+103,1,3199e3e6-b4a8-4bd1-b24d-cf3f754fda54,,,ADDS\mafifi,6/10/2019 1:35:00 AM,,719,F. H. Newbould,1979,Journal article,Canada
+104,1,c7595b76-43f2-4313-8bee-e4f1f5c03915,,,ADDS\mafifi,5/12/2019 7:28:38 PM,,725,J. G. Allcock and T. W. May,2009,Journal article,
+105,1,54ddacac-4e89-4601-b5f4-493bd42570ed,ADDS\mafifi,4/30/2019 5:44:35 PM,ADDS\mafifi,9/10/2019 3:26:37 PM,,472,"C. W. Heald, G. M. Jones, S. Nickerson and T. L. Bibb",1977,Journal article,US
+106,1,4997f2b8-8d26-44ff-9c68-6d633f27c8e6,ADDS\mafifi,5/12/2019 7:51:15 PM,ADDS\mafifi,10/30/2019 8:13:14 PM,,286,"A. Vanhoudt, K. van Hees-Huijps, A. T. M. van Knegsel, O. C. Sampimon, J. C. M. Vernooij, M. Nielen and T. van Werven",2018,Journal article,Netherlands
+108,1,7a393460-34e7-4760-b010-947fdd9f5b45,ADDS\mafifi,9/10/2019 2:27:23 PM,ADDS\mafifi,11/21/2019 2:29:54 PM,,192,,,,
+110,1,bc1235a3-ede9-4517-987b-5d81200dcebe,ADDS\mafifi,11/27/2019 7:20:33 PM,ADDS\mafifi,1/29/2020 3:07:53 AM,,44,,,,US
+111,1,1f090ec9-804b-473c-bc3f-0e219ea52c74,ADDS\mafifi,11/27/2019 11:37:32 PM,ADDS\mafifi,1/29/2020 3:07:51 AM,,803,,,,Argentina
+112,1,bcbe1667-5bda-4f8c-9221-b237384314fb,ADDS\mafifi,11/28/2019 12:02:06 AM,ADDS\mafifi,6/11/2020 4:37:22 PM,,804,,,,Canada
+113,1,c4e6d468-7932-4b7b-b96c-8c6c61751e68,ADDS\mafifi,6/11/2020 4:38:00 PM,ADDS\mafifi,6/11/2020 5:10:09 PM,,904,"Meaney et. al.,",1976,Thesis,Ireland

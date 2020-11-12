@@ -1,0 +1,14 @@
+"UniqueKey","UniqueRowId","GlobalRecordId","RECSTATUS","FKEY","Pathogenspp","Comparisongroup","Estimate","SE","LCI","UCI","Pvalue1"
+1,60398c2c-105f-49e9-b5e1-8790d9c90aa0,31b80368-7ea9-4fed-9b69-4f06366ff2a0,1,202da8a7-4064-4223-a90d-917f2b0da786,,Cefquinome,44.6,,2.1,909.1,0.01
+4,de8f2ac8-42eb-437a-bccd-cd62f7da4cf6,090aa14c-048e-43d6-9a3c-82f661c3b157,1,4a40a4ca-6814-48d4-89df-39cc6aaeb105,S.aureus,Cloxa,0.7522,0.35,0.066,1.438,0.03
+5,d3018169-29f6-4a99-a5d3-27fababa751f,0737afa6-3656-4a2d-9473-14e667c0caa9,1,880d495d-bb12-4a0b-9c5c-0eed015b2524,S.aureus,Cloxa,0.619,0.29,0.03,1.203,0.04
+6,87344683-c95b-4c96-8deb-f0bfcd512ce1,fe0c316b-e26b-427d-85c2-ebf1d3956fcb,1,ab1d3d9e-7bcc-49a8-a9c0-f882903de8e1,Non-pathogen specific,Ab mixture,-0.296,0.39,,,
+7,7f47ed9b-1848-42e4-a4d7-b263970bb197,5cb198e6-5d2a-4573-bf91-7d2852546105,1,0aed30c5-747c-4630-b6f5-3294f65849f8,Minor Pathogens,Cephalonium,-1.41,0.26,,,
+8,798553e0-b5da-4d93-97fd-4f9b5cf7bae6,5cb198e6-5d2a-4573-bf91-7d2852546105,1,0aed30c5-747c-4630-b6f5-3294f65849f8,Corynebacterium spp. (C.bovis),Cephalonium,-2.89,0.42,,,
+9,81b135ef-9aa8-4234-bbba-dee9dd34a0a3,15273d9e-3a8a-4e00-b95c-964aeb0d6a1f,1,8bcbba99-8695-436c-a64f-0c67a33a7fea,Non-pathogen specific,Pen+strept,0.47,,0.12,1.78,0.27
+11,d6db9728-5209-40d1-a366-db3750bf606f,e6200722-c761-4510-8bee-3196d99a99fc,1,0830f860-0b07-46c7-8d5b-50021eeab6c9,Non-pathogen specific,Cephapirin,-0.21,0.31,,,
+12,144cd7a4-dc81-4e20-915d-4770043308a4,f79375cf-a6b8-4135-851e-786a4d4767aa,1,45aaebf0-d041-42b7-b78c-cc5d9ed52e02,Non-pathogen specific,Cephapirin,-0.1,0.3,,,
+14,b3045e7f-ec77-4a29-8852-a0109449c1dd,ae12b163-5530-4fdd-bbc8-7bf6e2424a04,1,ce510f3d-2114-4449-9348-8f71597e0ab7,Non-pathogen specific,Cloxa,-1.200115374,0.498091851,,,
+15,e523d016-a3e7-44ca-a89a-616ffc7bae8c,a0916017-83ad-4484-bfff-cc81ae46a299,1,542d5ffe-9b70-4324-9b9a-596258bd626b,Non-pathogen specific,Cloxa,-1.508401368,0.501400058,,,
+16,5fbc29c0-d229-44c0-b9b4-b1f48d1cb07e,92d2b4d9-a447-4a2b-ba02-c02c29491d78,1,184bf93a-bbba-45d2-81f1-8ff4e5a1fb6e,Non-pathogen specific,Cloxa,0,,,,
+17,09b633a0-857c-4e30-bfeb-e323a871d9de,b8c307c3-55bf-40db-98e6-1b4f71919bf6,1,dcebef2c-b86f-4c76-9818-7c6ef1bfae20,Non-pathogen specific,Ab mixture,3.054345,,,,0.001

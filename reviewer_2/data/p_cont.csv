@@ -1,0 +1,12 @@
+"UniqueKey","UniqueRowId","GlobalRecordId","RECSTATUS","FKEY","Pathogenspp","Comparisongroup","Estimate","SE","LCI","UCI","Pvalue1"
+14,7fb7d923-214e-43ee-a690-4d78784dbcc5,68bd0a37-debd-4e53-a1da-9d8e003b1fb3,1,c4857771-d883-4d0e-bddd-222c2dd717a5,Major Pathogens,Cloxa,-0.7,0.21,,,
+15,85621b0a-ff89-4141-9ced-c5a417d55a3d,68bd0a37-debd-4e53-a1da-9d8e003b1fb3,1,c4857771-d883-4d0e-bddd-222c2dd717a5,Enterobacteriaceae (no specification),Cloxa,-0.95,0.23,,,
+16,422b1378-b57c-42b7-81cb-93b9336b7522,d1cb64b4-00d5-479d-9a65-6c0ace02dc6f,1,0c004583-70b0-4757-a65f-8965ef4523a0,Major Pathogens,Cloxa,-0.48,0.21,,,
+17,79422d60-19f0-4757-acbe-f4714012ab33,d1cb64b4-00d5-479d-9a65-6c0ace02dc6f,1,0c004583-70b0-4757-a65f-8965ef4523a0,Enterobacteriaceae (no specification),Cloxa,-0.64,0.22,,,
+19,2549b63d-d335-44fb-b03e-91f6f13efcc9,c19ab621-c076-4d21-b6dd-5777091a5325,1,a3f2dd49-8d06-4799-a1c6-95993f00926b,Non-pathogen specific,Cloxa,-0.35,,-0.65,-0.05,
+20,4f4a528b-5796-49e6-8d5e-52d1dfda55ca,768be7c1-1b55-40a8-b665-276d710d71c3,1,3abecd22-cf76-42e9-8032-535cabf1c21a,Non-pathogen specific,Cloxa,-0.37,0.11,,,
+21,ce6cf594-90ec-4f8a-b932-e3bbcb91d7fe,768be7c1-1b55-40a8-b665-276d710d71c3,1,3abecd22-cf76-42e9-8032-535cabf1c21a,Major Pathogens,Cloxa,-0.36,0.13,,,
+22,af67045e-f858-434a-a17c-57eb913a192e,768be7c1-1b55-40a8-b665-276d710d71c3,1,3abecd22-cf76-42e9-8032-535cabf1c21a,Minor Pathogens,Cloxa,-0.41,0.19,,,
+23,ffe3d868-7a5c-4cd1-96d6-ca390c9937ee,768be7c1-1b55-40a8-b665-276d710d71c3,1,3abecd22-cf76-42e9-8032-535cabf1c21a,Others,Cloxa,-0.28,0.34,,,
+24,c9ff6a2e-49d5-4698-b8ea-c11ab0896255,768be7c1-1b55-40a8-b665-276d710d71c3,1,3abecd22-cf76-42e9-8032-535cabf1c21a,Environmental,Cloxa,-0.38,0.17,,,
+25,9d430738-5eff-47e9-8a71-28e00a68daa9,768be7c1-1b55-40a8-b665-276d710d71c3,1,3abecd22-cf76-42e9-8032-535cabf1c21a,Gram-Ve,Cloxa,-0.14,0.16,,,
