@@ -1,0 +1,7 @@
+<Project id="ea14795c-33ba-15ef-ca47-dc00fcf66745" name="DCT" location="D:\Data Extraction_manuscript\data\2_final" description="" schemaVersion="102" epiVersion="" createDate="10/21/2018 00:45:15" useMetadataDbForCollectedData="" useBackgroundOnAllPages="False">
+  <CollectedData>
+    <Database connectionString="zHDkaR2yI5Pbh2/LYHfZ7ljYKFwMFLb6TrxCvYEORi5GfRZVaSb7/6u8dUSilcYOCcPK6h0ljqpmZROrR7IKWVjPdUsMURXSEhU8Tjpx6pA=" dataDriver="Epi.Data.Office.AccessDBFactory, Epi.Data.Office" />
+  </CollectedData>
+  <Metadata source="2" />
+  <EnterMakeviewInterpreter source="Epi.Core.EnterInterpreter" />
+</Project>
